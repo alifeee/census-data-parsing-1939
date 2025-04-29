@@ -4,6 +4,8 @@ Exporting census data for households from a few streets from the 1939 Register.
 
 For a while in April 2025, <https://www.findmypast.co.uk/search-address/> was free to use for anyone.
 
+![screenshot of spreadsheet showing census data](images/data.png)
+
 ## Get Data
 
 See [search.sh](./search.sh) and [single.sh](./single.sh) (requires token via Cookie).
