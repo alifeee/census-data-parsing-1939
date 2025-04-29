@@ -1,0 +1,567 @@
+AddressStreet,Address,Inhabited,LatLon,FirstName,LastName,BirthDate,ApproxAge,OccupationText,Gender,MaritalStatus,Relationship,Schedule,ScheduleSubNumber,Id
+Khartoum Road,"1 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Constance A,Latch,31 Aug 1904,35,Manageress Restaurant & Canteen,Female,Married,Unknown,172,3,TNA/R39/3506/3506E/003/17
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Catherine,Power,? Feb 1897,42,Music Hall Artists,Female,Married,Unknown,171,8,TNA/R39/3506/3506D/015/37
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Charles F R,Kirby,? Nov 1886,53,Newsagent Canvasser,Male,Married,Head,172,1,TNA/R39/3506/3506D/015/39
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Constance A,Latch,31 Aug 1912,27,Manageress Restairant & Cante,Female,Married,Unknown,172,3,TNA/R39/3506/3506D/015/41
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Eliza A,May,02 Oct 1887,52,Boarding-House Proprietress,Female,Married,Wife,171,2,TNA/R39/3506/3506D/015/31
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Freda,Reill (Wild),04 Aug 1919,20,Usherette At Theatre,Female,Single,Unknown,171,3,TNA/R39/3506/3506D/015/32
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",George A,Roman,01 Jul 1918,21,???,Male,Single,Unknown,171,6,TNA/R39/3506/3506D/015/35
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",James T,May,03 Apr 1882,57,Forge Weighman At Rolling Mill,Male,Married,Head,171,1,TNA/R39/3506/3506D/015/30
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",John,Power,05 Sep 1891,48,Music Hall Artists,Male,Married,Unknown,171,7,TNA/R39/3506/3506D/015/36
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Lily,Kirby,10 Apr 1893,46,Unpaid Domestic Duties,Female,Married,Wife,172,2,TNA/R39/3506/3506D/015/40
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Muriel,Lingard (Donovan),31 Oct 1918,21,Sweet Factory Siewing,Female,Single,Unknown,171,4,TNA/R39/3506/3506D/015/33
+Khartoum Road,"4 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",William C,Harpley,06 Jan 1880,59,Tailors Manager (At Shop),Male,Married,Head_other,171,5,TNA/R39/3506/3506D/015/34
+Khartoum Road,"5 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",George H,Hayes,30 Oct 1892,47,Corporation Tram Driver,Male,Married,Head,173,1,TNA/R39/3506/3506D/015/42
+Khartoum Road,"5 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Kenneth,Stapleton,29 Nov 1918,21,University Student,Male,Single,Unknown,173,4,TNA/R39/3506/3506D/016/01
+Khartoum Road,"5 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Margaret H,Hayes,18 Apr 1894,45,Unpaid Domestic Duties,Female,Married,Wife,173,2,TNA/R39/3506/3506D/015/43
+Khartoum Road,"5 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Winifred B,Hayes,21 Sep 1922,17,Junior Clerk In Engineers Office At Steelworks,Female,Single,Daughter,173,3,TNA/R39/3506/3506D/015/44
+Khartoum Road,"6 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Annie,Miles,03 Oct 1892,47,Incapacitated,Female,Single,Unknown,170,2,TNA/R39/3506/3506D/015/29
+Khartoum Road,"6 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Beatrice,Miles,21 Mar 1885,54,Unpaid Domestic Duties,Female,Widowed,Head,170,1,TNA/R39/3506/3506D/015/28
+Khartoum Road,"7 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Harry,Mellor,24 Feb 1905,34,Metal Stock-Keeper Silver Plate & Cutlery Works,Male,Married,Head,174,1,TNA/R39/3506/3506D/016/02
+Khartoum Road,"7 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Sarah,Mellor,11 Jun 1905,34,Unpaid Domestic Duties,Female,Married,Wife,174,2,TNA/R39/3506/3506D/016/03
+Khartoum Road,"8 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Annie B,Hibberd,01 Jan 1889,50,Unpaid Domestic Duties,Female,Married,Wife,169,2,TNA/R39/3506/3506D/015/24
+Khartoum Road,"8 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Fred,Hibberd,14 Dec 1919,20,Handle Glazer At Cutlery Manufac,Male,Single,Son,169,3,TNA/R39/3506/3506D/015/25
+Khartoum Road,"8 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",George H,Hibberd,28 Feb 1879,60,Steelworks Labourer,Male,Married,Head,169,1,TNA/R39/3506/3506D/015/23
+Khartoum Road,"8 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",May,Doughty (Hibberd),09 May 1923,16,Tape Measure Weavers Assistant,Female,Single,Daughter,169,4,TNA/R39/3506/3506D/015/26
+Khartoum Road,"9 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Albert E,Staniforth,11 Dec 1900,39,Cutlery Works Manager,Male,Married,Head,175,1,TNA/R39/3506/3506D/016/04
+Khartoum Road,"9 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Florence,Lewis (Staniforth),23 Aug 1903,36,Unpaid Domestic Duties,Female,Married,Wife,175,2,TNA/R39/3506/3506D/016/05
+Khartoum Road,"10 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Albert J,Edmonds,05 Mar 1913,26,General Labourer Arp,Male,Married,Head,167,1,TNA/R39/3506/3506D/015/16
+Khartoum Road,"10 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Albert J,Edmonds,29 May 1937,2,Under School Age,Male,Single,Son,167,5,TNA/R39/3506/3506D/015/20
+Khartoum Road,"10 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Gertrude M,Edmonds,11 Apr 1913,26,Unpaid Domestic Duties,Female,Married,Wife,167,2,TNA/R39/3506/3506D/015/17
+Khartoum Road,"10 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Thomas,Newton,17 Apr 1907,32,General Labourer At Fur? & Carpet Cleaner,Male,Married,Unknown,168,1,TNA/R39/3506/3506D/015/22
+Khartoum Road,"10 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Walter J,Edmonds,06 Sep 1877,62,General Labourer Arp,Male,Married,Unknown,167,6,TNA/R39/3506/3506D/015/21
+Khartoum Road,"11 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Annie M,Pass,16 Jul 1885,54,Unpaid Domestic Duties,Female,Married,Wife,176,2,TNA/R39/3506/3506D/016/08
+Khartoum Road,"11 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Wilmot,Pass,19 Jan 1869,70,Sheffield City Police Inspector (Retired),Male,Married,Head,176,1,TNA/R39/3506/3506D/016/07
+Khartoum Road,"12 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",George,Ashley,03 May 1884,55,Concrete Labourer Journeyman Heavy,Male,Widowed,Unknown,166,1,TNA/R39/3506/3506D/015/14
+Khartoum Road,"12 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Ivy,Clemson,29 Apr 1912,27,Corporation Cleaner (At Town Hall),Female,Single,Daughter,165,2,TNA/R39/3506/3506D/015/13
+Khartoum Road,"12 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",James,Clemson,29 Apr 1872,67,Miner (Below Ground) Getter (Unemployed),Male,Widowed,Head,165,1,TNA/R39/3506/3506D/015/12
+Khartoum Road,"13 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Francis,Hire,13 Aug 1877,62,Professional Musician (Orchestra),Male,Married,Head,177,1,TNA/R39/3506/3506D/016/09
+Khartoum Road,"13 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Jessie,Hire,13 Sep 1874,65,Unpaid Domestic Duties,Female,Married,Wife,177,2,TNA/R39/3506/3506D/016/10
+Khartoum Road,"14 Khartoum Road, Sheffield",N,"53.3701,-1.4943",,,,,,,,,,,
+Khartoum Road,"15 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Florence,Linley,27 Feb 1886,53,Unpaid Domestic Duties,Female,Married,Wife,178,2,TNA/R39/3506/3506D/016/12
+Khartoum Road,"15 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",George,Linley,18 Jul 1884,55,Piston Ring & Valve Fitter Marine Engineer,Male,Married,Head,178,1,TNA/R39/3506/3506D/016/11
+Khartoum Road,"15 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Marjorie,Fletcher (Linley),20 Nov 1921,18,Shorthand Typist Chartered Accountants,Female,Single,Daughter,178,3,TNA/R39/3506/3506D/016/13
+Khartoum Road,"16 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Frankl C,Holmes,06 Oct 1879,60,Butlery Works General Engineer,Male,Married,Head,163,1,TNA/R39/3506/3506D/015/09
+Khartoum Road,"16 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Ruth A,Holmes,06 Oct 1880,59,Unpaid Domestic Duties,Female,Married,Wife,163,2,TNA/R39/3506/3506D/015/10
+Khartoum Road,"17 Khartoum Road, Sheffield",N,"53.3701,-1.4943",,,,,,,,,,,
+Khartoum Road,"18 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Dorothy,"Hall (Hadfield,Hall)",10 May 1911,28,Unpaid Domestic Duties,Female,Married,Wife,162,2,TNA/R39/3506/3506D/015/08
+Khartoum Road,"18 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Edwin,Hall,17 Jan 1913,26,Departmental Manager (Steel Manufac),Male,Married,Head,162,1,TNA/R39/3506/3506D/015/07
+Khartoum Road,"19 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Dennis,Booth,23 Apr 1916,23,Golf Course Groundsman,Male,Married,Head_other,180,3,TNA/R39/3506/3506D/016/17
+Khartoum Road,"19 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Ellen,Phillips,21 May 1878,61,Unpaid Domestic Duties,Female,Widowed,Head,180,1,TNA/R39/3506/3506D/016/15
+Khartoum Road,"19 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Rita M,Booth,16 Jan 1913,26,Unpaid Domestic Duties,Female,Married,Wife_other,180,5,TNA/R39/3506/3506D/016/19
+Khartoum Road,"19 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",William L,Phillips,25 Jan 1908,31,Incapacitated,Male,Single,Son,180,2,TNA/R39/3506/3506D/016/16
+Khartoum Road,"20 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Edith A,Hardwick,25 Apr 1880,59,Unpaid Domestic Duties,Female,Married,Head,161,1,TNA/R39/3506/3506D/015/05
+Khartoum Road,"20 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",James,Hardwick,25 May 1867,72,Spoom & Fork Manufacturer (Master),Male,Married,Husband,161,2,TNA/R39/3506/3506D/015/06
+Khartoum Road,"21 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Ann E,Pearce,05 May 1879,60,Unpaid Domestic Duties,Female,Married,Wife,181,2,TNA/R39/3506/3506D/016/21
+Khartoum Road,"21 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Walter H,Pearce,15 Feb 1874,65,Cutlery Manager,Male,Married,Head,181,1,TNA/R39/3506/3506D/016/20
+Khartoum Road,"22 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Alice,Gudgeon,15 Aug 1902,37,Gents Outfitting Manageress,Female,Single,Unknown,160,6,TNA/R39/3506/3506D/015/04
+Khartoum Road,"22 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Cyril,Cotton,15 May 1922,17,Steelworks Analysts Assistant,Male,Single,Son,160,3,TNA/R39/3506/3506D/015/01
+Khartoum Road,"22 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Elsie,Cotton,03 Aug 1894,45,Unpaid Domestic Duties,Female,Married,Head,160,1,TNA/R39/3506/3506D/014/43
+Khartoum Road,"22 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Frances M,Shaw (Smith),17 May 1902,37,Gents Outfitting (5 Branches) Mana,Female,Single,Unknown,160,5,TNA/R39/3506/3506D/015/03
+Khartoum Road,"22 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Kenneth,Cotton,07 Sep 1924,15,Small Tool Assembler,Male,Single,Son,160,4,TNA/R39/3506/3506D/015/02
+Khartoum Road,"22 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Ronald,Cotton,14 Jan 1919,20,Press Tool Fitters Improver,Male,Single,Son,160,2,TNA/R39/3506/3506D/014/44
+Khartoum Road,"23 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",M E,Needham,13 Jan 1882,57,Unpaid Domestic Duties,Female,Married,Unknown,182,1,TNA/R39/3506/3506D/016/22
+Khartoum Road,"25 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Alan,Bailey,04 Apr 1939,0,Under School Age,Male,Single,Son,183,4,TNA/R39/3506/3506D/016/26
+Khartoum Road,"25 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Fred,Bailey,04 Mar 1911,28,Edge Tool Hardener & Setter,Male,Married,Head,183,1,TNA/R39/3506/3506D/016/23
+Khartoum Road,"25 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Gladys,Bailey,19 Aug 1910,29,Unpaid Domestic Duties,Female,Married,Wife,183,2,TNA/R39/3506/3506D/016/24
+Khartoum Road,"27 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Eleanor H,Ward,31 Dec 1897,42,Unpaid Domestic Duties,Female,Married,Head,184,3,TNA/R39/3506/3506D/016/29
+Khartoum Road,"27 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",John A,Ward,16 Apr 1892,47,Pocket Knife Manufacturer (Ma),Male,Married,Husband,184,4,TNA/R39/3506/3506D/016/30
+Khartoum Road,"27 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Joyce,Clarke (Ward),06 Mar 1923,16,Shorthand Typist Transport Department,Female,Single,Daughter,184,2,TNA/R39/3506/3506D/016/28
+Khartoum Road,"27 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Martha A,Chapman,10 Nov 1856,83,Unpaid Domestic Duties,Female,Widowed,Unknown,184,1,TNA/R39/3506/3506D/016/27
+Khartoum Road,"29 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Anne E,Toulson,18 Feb 1873,66,Incapacitated - Heart Trouble,Female,Married,Wife,185,2,TNA/R39/3506/3506D/016/32
+Khartoum Road,"29 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Frank W,Toulson,12 Nov 1873,66,Journeyman Pocket Blade Grinder (At Present Unemployed),Male,Married,Head,185,1,TNA/R39/3506/3506D/016/31
+Khartoum Road,"29 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Ruby,Spooner,20 Aug 1898,41,Shorthand Typist At Steelworks,Female,Married,Unknown,185,3,TNA/R39/3506/3506D/016/33
+Khartoum Road,"31 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",George,Grant,? Jun 1909,30,Journeyman Joiner Shopfitter,Male,Married,Head,186,1,TNA/R39/3506/3506D/016/34
+Khartoum Road,"31 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Gertrude,Grant,16 Dec 1908,31,Unpaid Domestic Duties,Female,Married,Wife,186,2,TNA/R39/3506/3506D/016/35
+Khartoum Road,"33 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Alice,Smith,04 Jan 1902,37,Unpaid Domestic Duties,Female,Married,Wife,187,2,TNA/R39/3506/3506D/016/37
+Khartoum Road,"33 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Frederick R,Smith,28 Jun 1932,7,At School,Male,Single,Son,187,4,TNA/R39/3506/3506D/016/39
+Khartoum Road,"33 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Frederick,Smith,03 Jan 1904,35,Metal Annealer Hardener & Temperer,Male,Married,Head,187,1,TNA/R39/3506/3506D/016/36
+Khartoum Road,"35 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Eric,Cocker,24 Jul 1918,21,Steelworks Labourer,Male,-,Unknown,188,5,TNA/R39/3506/3506D/017/01
+Khartoum Road,"35 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Jack,Pexton,20 Jul 1921,18,Journeyman Window Cleaner,Male,Single,Son,188,2,TNA/R39/3506/3506D/016/42
+Khartoum Road,"35 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Laura,Pexton,26 May 1887,52,Unpaid Domestic Duties,Female,Widowed,Head,188,1,TNA/R39/3506/3506D/016/41
+Khartoum Road,"35 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Marie,Watson (Pexton),29 Feb 1924,15,Packer In Cutlery Warehouse,Female,Single,Daughter,188,3,TNA/R39/3506/3506D/016/43
+Khartoum Road,"39 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Emily H,Marsden,19 Dec 1865,74,Unpaid Domestic Duties,Female,Widowed,Head,189,1,TNA/R39/3506/3506D/017/02
+Khartoum Road,"39 Khartoum Road, Sheffield",Y,"53.3701,-1.4943",Nellie,Marsden,01 Feb 1890,49,Instrument Manufacture Clerk To Measuring,Female,Single,Daughter,189,2,TNA/R39/3506/3506D/017/03
+Thompson Road,"5 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Annie,Ellis,? May 1873,66,Dressmaker On Own Account,Female,Widowed,Unknown,80,1,TNA/R39/3506/3506D/008/32
+Thompson Road,"6 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Dorothy M,Buxton (Rodgers),15 Aug 1909,30,Unpaid Domestic Duties,Female,Married,Unknown,79,6,TNA/R39/3506/3506D/008/31
+Thompson Road,"6 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Edna,Shimwell,13 Sep 1919,20,Unpaid Domestic Duties,Female,Married,Unknown,79,1,TNA/R39/3506/3506D/008/26
+Thompson Road,"6 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Harry,Smith,07 Jun 1879,60,Vacuum Cleaner Salesman (? Clerk (At Present),Male,Married,Unknown,79,4,TNA/R39/3506/3506D/008/29
+Thompson Road,"6 Thompson Road, Sheffield",Y,"53.3705,-1.4951",William,Rodgers,15 May 1913,26,Steel Straighte,Male,Married,Unknown,79,5,TNA/R39/3506/3506D/008/30
+Thompson Road,"7 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Edward,Dickenson,01 Jun 1886,53,Technical Manager (Mechanical And Electrical Engineering),Male,Married,Unknown,81,1,TNA/R39/3506/3506D/008/33
+Thompson Road,"7 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Emma,Adams,19 Oct 1876,63,Housekeeper Incapacitated By Illness,Female,Widowed,Unknown,82,1,TNA/R39/3506/3506D/008/34
+Thompson Road,"8 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ada E,Holroyd,19 Feb 1912,27,Ministry Of Labour - Employment Clerk,Female,Single,Unknown,78,4,TNA/R39/3506/3506D/008/24
+Thompson Road,"8 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Charlotte E,Morton,15 Nov 1891,48,Unpaid Domestic Duties,Female,Married,Wife,78,2,TNA/R39/3506/3506D/008/22
+Thompson Road,"8 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Frank,Brown,31 May 1912,27,Wholesale Fancy Goods Shopman,Male,Single,Unknown,78,3,TNA/R39/3506/3506D/008/23
+Thompson Road,"8 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Frank,Morton,03 Jul 1887,52,Caretaker At Colliery Engineering Office,Male,Married,Head,78,1,TNA/R39/3506/3506D/008/21
+Thompson Road,"8 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Joan,Crocker (Grafton),18 Nov 1917,22,Ministry Of Labour - Employment Clerk,Female,Single,Unknown,78,5,TNA/R39/3506/3506D/008/25
+Thompson Road,"9 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Doris,Baker,30 Apr 1901,38,Unpaid Domestic Duties,Female,Widowed,Unknown,83,1,TNA/R39/3506/3506D/008/35
+Thompson Road,"9 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Joan D,Baker,24 Nov 1922,17,Clerk (Admiralty Offices),Female,Single,Unknown,83,2,TNA/R39/3506/3506D/008/36
+Thompson Road,"10 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Alicia M,Axtell (Taylor),15 Nov 1915,24,Assistant Hairdresser,Female,Single,Unknown,77,5,TNA/R39/3506/3506D/008/20
+Thompson Road,"10 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Alicia M,Axtell (Taylor),15 Nov 1915,24,Assistant Hairdresser,Female,Single,Unknown,77,5,TNA/R39/3506/3506E/003/27
+Thompson Road,"10 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Clara L,Swaine,26 Jun 1860,79,Private Means - Retired,Female,Single,Unknown,77,1,TNA/R39/3506/3506D/008/16
+Thompson Road,"10 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Clementia,Newman,31 Dec 1860,79,Private Means - Retired,Female,Single,Unknown,77,3,TNA/R39/3506/3506D/008/18
+Thompson Road,"10 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Jane,Hodgson,17 Mar 1883,56,Buyer Of Mantles,Female,Single,Unknown,77,4,TNA/R39/3506/3506D/008/19
+Thompson Road,"10 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Rose M,Newman,01 May 1862,77,Private Means - Retired,Female,Single,Unknown,77,2,TNA/R39/3506/3506D/008/17
+Thompson Road,"12 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"14 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Arthur,Pearson,24 Dec 1904,35,Auxiliary Fireman Mechanic No,Male,Married,Husband,84,2,TNA/R39/3506/3506D/008/38
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Hilda,Wragg (Ashton),22 Mar 1915,24,Café Waitress,Female,Single,Unknown,85,2,TNA/R39/3506/3506D/008/43
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Joan B (Beatrice),Lloyd,25 Feb 1916,23,Saleslady Glove Department In General Drapery Stores,Female,Married,Wife,86,2,TNA/R39/3506/3506D/009/02
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Marjorie,Gillam (Walton),10 Jan 1914,25,Shop Assistant In General Sto,Female,Single,Unknown,84,4,TNA/R39/3506/3506D/008/40
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary A (Alice Marie),McNally,25 Oct 1909,30,Formerly Barmaid - Waitress,Female,Married,Unknown,84,5,TNA/R39/3506/3506D/008/41
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary,Pearson,11 Sep 1913,26,Unpaid Domestic Duties,Female,Married,Head,84,1,TNA/R39/3506/3506D/008/37
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Muriel,Mitchell (Fallis),14 Jul 1914,25,Barmaid - Waitress,Female,Single,Unknown,85,3,TNA/R39/3506/3506D/008/44
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Vera,Parks (Ashton),22 Dec 1911,28,Café Waitress,Female,Single,Head,85,1,TNA/R39/3506/3506D/008/42
+Thompson Road,"15 Thompson Road, Sheffield",Y,"53.3705,-1.4951",William F,Lloyd,25 Aug 1913,26,Tailor (Salesman & Maker),Male,Married,Head,86,1,TNA/R39/3506/3506D/009/01
+Thompson Road,"16 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Charles F,Rickett,23 Jan 1909,30,Iron & Steel Merchant Traveller,Male,Married,Head,74,1,TNA/R39/3506/3506D/008/12
+Thompson Road,"16 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary J,Rickett,09 Dec 1862,77,Unpaid Domestic Duties,Female,Married,Wife,74,2,TNA/R39/3506/3506D/008/13
+Thompson Road,"17 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Florence M,Munks,26 Mar 1878,61,Unpaid Domestic Duties,Female,Married,Wife,87,2,TNA/R39/3506/3506D/009/04
+Thompson Road,"17 Thompson Road, Sheffield",Y,"53.3705,-1.4951",George,Munks,17 Dec 1876,63,Merchant Tailor (Bespoke) Master,Male,Married,Head,87,1,TNA/R39/3506/3506D/009/03
+Thompson Road,"18 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Charles W,Stirk,20 Jul 1894,45,(870000 Acting Sergeant 941 Squadron Royal Air Force),Male,Married,Head,73,1,TNA/R39/3506/3506D/008/09
+Thompson Road,"18 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Edith A,Stirk,11 Apr 1903,36,Unpaid Domestic Duties,Female,Married,Wife,73,2,TNA/R39/3506/3506D/008/10
+Thompson Road,"19 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Brook,Smith,23 Nov 1882,57,Insurance Collector,Male,Single,Unknown,72,7,TNA/R39/3506/3506D/008/08
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Clara,Richardson,27 Oct 1877,62,Unpaid Domestic Duties,Female,Married,Wife,72,2,TNA/R39/3506/3506D/008/03
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Doris,Jenkinson (Richardson),25 May 1916,23,Motor Engine Typist,Female,Single,Daughter,72,5,TNA/R39/3506/3506D/008/06
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Gladys,Blake (Richardson),07 Jul 1916,23,Motor Garage Secretary,Female,Single,Daughter,72,4,TNA/R39/3506/3506D/008/05
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Vera,Richardson,04 Nov 1920,19,Office Clerk Co-Operative Society,Female,Single,Daughter,72,6,TNA/R39/3506/3506D/008/07
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Walter T,Richardson,13 Jul 1878,61,Insurance Inspector,Male,Married,Head,72,1,TNA/R39/3506/3506D/008/02
+Thompson Road,"20 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Willie,Richardson,16 Jun 1905,34,Bank Cashier,Male,Married,Son,72,3,TNA/R39/3506/3506D/008/04
+Thompson Road,"21 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"23 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Florrie,Dickinson,16 Dec 1895,44,Unpaid Domestic Duties,Female,Married,Wife,90,2,TNA/R39/3506/3506D/009/08
+Thompson Road,"23 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Willis,Dickinson,27 Apr 1896,43,Corporation Transport Inspector,Male,Married,Head,90,1,TNA/R39/3506/3506D/009/07
+Thompson Road,"23 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Wills,Dickinson,25 Aug 1923,16,Iron Steel Metal Or Machinery Supplies Distribution General Clerk,Male,Single,Son,90,4,TNA/R39/3506/3506D/009/10
+Thompson Road,"23 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Winifred,Alcock (Dickinson),15 Jul 1920,19,General Grocery Shop Assistant,Female,Single,Daughter,90,3,TNA/R39/3506/3506D/009/09
+Thompson Road,"24 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary A,Newitt,15 Sep 1879,60,Unpaid Domestic Duties,Female,Married,Wife,71,2,TNA/R39/3506/3506D/007/44
+Thompson Road,"24 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary A,Warsop,26 Jul 1883,56,Incapacitated,Female,Widowed,Unknown,71,3,TNA/R39/3506/3506D/008/01
+Thompson Road,"24 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Percy,Newitt,08 Jul 1879,60,Electrical Engineer (Master),Male,Married,Head,71,1,TNA/R39/3506/3506D/007/43
+Thompson Road,"25 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Annie,Hatfield,04 Aug 1875,64,Unpaid Domestic Duties,Female,Single,Unknown,91,1,TNA/R39/3506/3506D/009/11
+Thompson Road,"26 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Doris M,Topham,03 Jan 1895,44,Unpaid Domestic Duties,Female,Single,Head,70,1,TNA/R39/3506/3506D/007/41
+Thompson Road,"26 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary J,Topham,17 Feb 1860,79,Unpaid Domestic Duties,Female,Widowed,Unknown,70,2,TNA/R39/3506/3506D/007/42
+Thompson Road,"27 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Edith M,Garrison,03 Mar 1906,33,Assistant Teacher Elementary,Female,Single,Daughter,92,2,TNA/R39/3506/3506D/009/13
+Thompson Road,"27 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Eleanor J,White,14 Nov 1871,68,Unpaid Domestic Duties,Female,Widowed,Unknown,92,3,TNA/R39/3506/3506D/009/14
+Thompson Road,"27 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Evelyn A,White,19 Oct 1904,35,General Domestic Duties,Female,Single,Unknown,92,4,TNA/R39/3506/3506D/009/15
+Thompson Road,"27 Thompson Road, Sheffield",Y,"53.3705,-1.4951",John W,Garrison,22 Aug 1869,70,Financiers Clerk Retired,Male,Widowed,Head,92,1,TNA/R39/3506/3506D/009/12
+Thompson Road,"28 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Elsie M,Daft,16 Sep 1894,45,Clerk Joint Hospitals Council,Female,Single,Unknown,69,2,TNA/R39/3506/3506D/007/39
+Thompson Road,"28 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Florence,Daft,04 Aug 1861,78,Incapacitated,Female,Widowed,Unknown,69,3,TNA/R39/3506/3506D/007/40
+Thompson Road,"28 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Frances E,Daft,05 May 1884,55,Formerly Senior Mistress Secondary School ? Worker Educational Associate,Female,Single,Head,69,1,TNA/R39/3506/3506D/007/38
+Thompson Road,"29 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Madge,Nell,28 Feb 1884,55,Unpaid Domestic Duties,Female,Married,Wife,93,2,TNA/R39/3506/3506D/009/17
+Thompson Road,"29 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Walter,Nell,02 Nov 1874,65,Etcher Steel Measures,Male,Married,Head,93,1,TNA/R39/3506/3506D/009/16
+Thompson Road,"30 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ellen A,Loxley,23 Sep 1868,71,Unpaid Domestic Duties,Female,Single,Head,68,1,TNA/R39/3506/3506D/007/36
+Thompson Road,"30 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Richard W,Loxley,04 May 1863,76,Engraver (For Printing) Retired,Male,Single,Unknown,68,2,TNA/R39/3506/3506D/007/37
+Thompson Road,"31 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Alan,Smith,29 Oct 1923,16,At School,Male,Single,Son,94,4,TNA/R39/3506/3506D/009/21
+Thompson Road,"31 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Clara,Smith,25 Apr 1879,60,Unpaid Domestic Duties,Female,Married,Wife,94,2,TNA/R39/3506/3506D/009/19
+Thompson Road,"31 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Leslie W,Smith,18 Jun 1910,29,Works Manager (Wood Handle Manufacturer),Male,Single,Son,94,3,TNA/R39/3506/3506D/009/20
+Thompson Road,"31 Thompson Road, Sheffield",Y,"53.3705,-1.4951",William,Smith,24 Apr 1882,57,Wood Handle Manufacturer Mass (Cutlery Tools),Male,Married,Head,94,1,TNA/R39/3506/3506D/009/18
+Thompson Road,"32 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"33 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Jessie,Wolfe,26 May 1913,26,Unpaid Domestic Duties,Female,Married,Wife,95,2,TNA/R39/3506/3506D/009/23
+Thompson Road,"33 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Roy S W,Wolfe,01 Aug 1909,30,Steelworks Draughtsman,Male,Married,Head,95,1,TNA/R39/3506/3506D/009/22
+Thompson Road,"34 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Bertha,Wilson,07 Mar 1862,77,Ladies Companion Retired,Female,Single,Unknown,66,6,TNA/R39/3506/3506D/007/34
+Thompson Road,"34 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Elsie,Stacey,27 Jan 1912,27,Unpaid Domestic Duties,Female,Married,Unknown,66,5,TNA/R39/3506/3506D/007/33
+Thompson Road,"34 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ethel M,Stacey,13 May 1887,52,Unpaid Domestic Duties,Female,Married,Wife,66,2,TNA/R39/3506/3506D/007/30
+Thompson Road,"34 Thompson Road, Sheffield",Y,"53.3705,-1.4951",John P,Stacey,10 Sep 1911,28,Plumber (Journeyman),Male,Married,Son,66,4,TNA/R39/3506/3506D/007/32
+Thompson Road,"34 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Percival C,Stacey,22 Jun 1883,56,General Clerking Duties Formerly Municipal Clerk,Male,Married,Head,66,1,TNA/R39/3506/3506D/007/29
+Thompson Road,"34 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Rae,Joune (Stacey),26 Mar 1925,14,Learning Shorthand & Typing,Female,Single,Unknown,66,3,TNA/R39/3506/3506D/007/31
+Thompson Road,"35 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Dorothy M,Miller,13 Jul 1916,23,Shop Assistant Hardware Department Co-Operative Wholesale Society,Female,Single,Daughter,96,3,TNA/R39/3506/3506D/009/28
+Thompson Road,"35 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Frederick E,Thompson,03 Mar 1877,62,Warder Builders Retired,Male,Widowed,Unknown,96,6,TNA/R39/3506/3506D/009/31
+Thompson Road,"35 Thompson Road, Sheffield",Y,"53.3705,-1.4951",May,Miller,12 Jul 1891,48,Unpaid Domestic Duties,Female,Married,Wife,96,2,TNA/R39/3506/3506D/009/27
+Thompson Road,"35 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Thomas F,Miller,04 Aug 1880,59,Foreman Bricklayer,Male,Married,Head,96,1,TNA/R39/3506/3506D/009/26
+Thompson Road,"35 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Thomas F,Miller,22 Feb 1924,15,At School,Male,Single,Son,96,4,TNA/R39/3506/3506D/009/29
+Thompson Road,"35 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Thomas F,Miller,22 Feb 1924,15,At School,Male,Single,Unknown,96,4,TNA/R39/3506/3506E/004/05
+Thompson Road,"36 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Elsie,Argyle,23 Sep 1894,45,Tools Etc (Master) Manufacturers Of Painters Plum,Female,Single,Unknown,65,1,TNA/R39/3506/3506D/007/28
+Thompson Road,"37 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Annie,Dixon,28 Aug 1873,66,Unpaid Domestic Duties,Female,Married,Wife,97,2,TNA/R39/3506/3506D/009/33
+Thompson Road,"37 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Frederick G,Dixon,10 May 1874,65,Cashier At Provision Dealer Retired,Male,Married,Head,97,1,TNA/R39/3506/3506D/009/32
+Thompson Road,"38 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Jessie,Kershaw (Armitage),28 Aug 1915,24,Book-Keeper At Furniture Store,Female,Single,Daughter,64,3,TNA/R39/3506/3506D/007/25
+Thompson Road,"38 Thompson Road, Sheffield",Y,"53.3705,-1.4951",May,Armitage,06 May 1887,52,Unpaid Domestic Duties,Female,Married,Wife,64,2,TNA/R39/3506/3506D/007/24
+Thompson Road,"38 Thompson Road, Sheffield",Y,"53.3705,-1.4951",May,Vandenbroek (Armitage),26 Feb 1922,17,Typist At Furniture Stores,Female,Single,Daughter,64,5,TNA/R39/3506/3506D/007/27
+Thompson Road,"38 Thompson Road, Sheffield",Y,"53.3705,-1.4951",May,Van Deb Broek (Armitage),26 Feb 1922,17,Typist At Furniture Stores,Female,Single,Unknown,64,5,TNA/R39/3506/3506E/003/05
+Thompson Road,"38 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Robert,Armitage,23 Mar 1886,53,Tool Room Turner At Engineers Small Tool Works,Male,Married,Head,64,1,TNA/R39/3506/3506D/007/23
+Thompson Road,"38 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ronald,Armitage,08 Jun 1919,20,Fitter At Engineers Tool Works,Male,Single,Son,64,4,TNA/R39/3506/3506D/007/26
+Thompson Road,"39 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Annie E,Gill,17 Apr 1862,77,Unpaid Domestic Duties,Female,Widowed,Head,98,1,TNA/R39/3506/3506D/009/34
+Thompson Road,"39 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Elsie,Gill,18 Jul 1894,45,Pawnbroker & Jewellers & Salesman,Female,Single,Daughter,98,2,TNA/R39/3506/3506D/009/35
+Thompson Road,"40 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Alice,Smith,23 Apr 1878,61,Boarding-House Proprietress Domestic Duties,Female,Single,Unknown,63,3,TNA/R39/3506/3506D/007/22
+Thompson Road,"40 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ellen M,Smith,23 Oct 1873,66,Boarding-House Proprietress Domestic Duties,Female,Single,Unknown,63,2,TNA/R39/3506/3506D/007/21
+Thompson Road,"40 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Francis,Mundy,06 Feb 1909,30,Retail Boot Shop Manager,Male,Single,Unknown,63,1,TNA/R39/3506/3506D/007/20
+Thompson Road,"41 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Cyril A,Mincher,27 Dec 1894,45,(Motor Car) Motor Engineer & Salesman,Male,Married,Head,99,1,TNA/R39/3506/3506D/009/36
+Thompson Road,"41 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Lois M,Mincher,20 Nov 1906,33,Unpaid Domestic Duties,Female,Married,Wife,99,2,TNA/R39/3506/3506D/009/37
+Thompson Road,"41 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Peter M,Mincher,11 Jun 1932,7,At School,Male,Single,Son,99,3,TNA/R39/3506/3506D/009/38
+Thompson Road,"42 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ann E,Richardson,27 Nov 1851,88,Incapacitated,Female,Widowed,Head,62,1,TNA/R39/3506/3506D/007/18
+Thompson Road,"42 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Thomas,Richardson,04 Feb 1877,62,Unpaid Domestic Duties,Male,Single,Son,62,2,TNA/R39/3506/3506D/007/19
+Thompson Road,"43 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Clarence F,Barker,19 Apr 1899,40,Wages Clerk Sheffield Corporation Water Works,Male,Married,Head_other,100,4,TNA/R39/3506/3506D/009/42
+Thompson Road,"43 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Dorothy,Barker,10 Nov 1902,37,Unpaid Domestic Duties,Female,Married,Wife_other,100,5,TNA/R39/3506/3506D/009/43
+Thompson Road,"43 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Fanny E,Midgley,17 Jan 1876,63,Unpaid Domestic Duties,Female,Married,Wife,100,2,TNA/R39/3506/3506D/009/40
+Thompson Road,"43 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Gertrude M,Senior (Midgley),31 Aug 1912,27,Elementary School Teacher Assistant,Female,Single,Daughter,100,3,TNA/R39/3506/3506D/009/41
+Thompson Road,"43 Thompson Road, Sheffield",Y,"53.3705,-1.4951",John F,Barker,18 Dec 1931,8,At School,Male,Single,Son_other,100,6,TNA/R39/3506/3506D/009/44
+Thompson Road,"43 Thompson Road, Sheffield",Y,"53.3705,-1.4951",John W,Midgley,29 Oct 1874,65,Elementary School Teacher Assistant,Male,Married,Head,100,1,TNA/R39/3506/3506D/009/39
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Donald,Clarke,30 Jun 1920,19,Warehouse Assistant At Cutlery Work,Male,Single,Unknown,61,4,TNA/R39/3506/3506D/007/14
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ernest,Spye,21 Dec 1891,48,(Engaged On Production Of Armament Forgings),Male,Married,Head,61,1,TNA/R39/3506/3506D/007/11
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Jessie Cora,Clay,28 Feb 1916,23,Overalls Machinist At (Overalls Factory),Female,Married,Wife_other,61,7,TNA/R39/3506/3506D/007/17
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Jessie,Spye,27 May 1891,48,Unpaid Domestic Duties,Female,Married,Wife,61,2,TNA/R39/3506/3506D/007/12
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Kathleen,Jesinger (Spye),09 Jul 1918,21,Frame Knitter At Woollen Goods Factory,Female,Single,Daughter,61,3,TNA/R39/3506/3506D/007/13
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Sam,Clay,22 Aug 1912,27,Plumber Glazier Gas Fitter Etc (Journeyman),Male,Married,Head_other,61,6,TNA/R39/3506/3506D/007/16
+Thompson Road,"44 Thompson Road, Sheffield",Y,"53.3705,-1.4951",William,McDonald,10 Oct 1908,31,Engaged On Production Of Costing For Armament Work,Male,Single,Unknown,61,5,TNA/R39/3506/3506D/007/15
+Thompson Road,"45 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Arthur C,Poll,04 Jul 1913,26,Service Manager Drapery & Furnishing St,Male,Single,Son,60,7,TNA/R39/3506/3506D/007/09
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Beatrice J,Poll,21 Oct 1891,48,Unpaid Domestic Duties,Female,Single,Unknown,60,2,TNA/R39/3506/3506D/007/04
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Bertha F,Walker (Yarwood),13 Feb 1899,40,Shop Keeper-Confectioners (Master),Female,Married,Unknown,60,6,TNA/R39/3506/3506D/007/08
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Cissie S,Poll,01 Jun 1912,27,Drapers Clerk In Accountancy,Female,Single,Daughter,60,5,TNA/R39/3506/3506D/007/07
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Elizabeth Mary,Freeman (Poll),12 Sep 1928,11,At School,Female,Single,Unknown,60,8,TNA/R39/3506/3506D/007/10
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Lenna L,Lockett (Poll),01 Jul 1909,30,Master Ladies' Hairdresser,Female,Single,Daughter,60,3,TNA/R39/3506/3506D/007/05
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Susannah E,Pole (Poll),17 Jan 1874,65,Unpaid Domestic Duties,Female,Widowed,Head,60,1,TNA/R39/3506/3506D/007/03
+Thompson Road,"46 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Winifred M,Milton (Poll),14 Mar 1911,28,Confectionery Bakeress,Female,Single,Daughter,60,4,TNA/R39/3506/3506D/007/06
+Thompson Road,"47 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Arthur P,McNally,15 Feb 1899,40,Tax Officer Income Tax Department Board Of Inland Revenue,Male,Married,Head,102,1,TNA/R39/3506/3506D/010/02
+Thompson Road,"47 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Daisy,McNally,24 Dec 1910,29,Unpaid Domestic Duties,Female,Married,Wife,102,2,TNA/R39/3506/3506D/010/03
+Thompson Road,"48 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ann E,Holroyd,08 Jun 1882,57,Invoice & Stock Clerk Provision Merchants,Female,Single,Unknown,59,4,TNA/R39/3506/3506D/007/01
+Thompson Road,"48 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Anthony L,Holroyd,25 Sep 1927,12,At School,Male,Single,Son,59,3,TNA/R39/3506/3506D/006/44
+Thompson Road,"48 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ernest,Holroyd,07 Sep 1900,39,Managing Clerk Motor Engineers,Male,Married,Head,59,1,TNA/R39/3506/3506D/006/42
+Thompson Road,"48 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary,Pressley (Holroyd),11 Jul 1918,21,Wholesale Newsagents Sales Assistant W H Smith & Son,Female,Single,Daughter,59,5,TNA/R39/3506/3506D/007/02
+Thompson Road,"48 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Nora E,Holroyd,18 Mar 1900,39,Unpaid Domestic Duties,Female,Married,Wife,59,2,TNA/R39/3506/3506D/006/43
+Thompson Road,"49 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Doris,Barrett (Ford),19 Feb 1918,21,Photohrapher Shop Assistant,Female,Single,Daughter,24,3,TNA/R39/3506/3506C/003/42
+Thompson Road,"49 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ethel,Ford,14 Jun 1887,52,Unpaid Domestic Duties,Female,Married,Wife,24,2,TNA/R39/3506/3506C/003/41
+Thompson Road,"49 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Frank,Ford,21 May 1884,55,???,Male,Married,Head,24,1,TNA/R39/3506/3506C/003/40
+Thompson Road,"49 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Violet D (Doreen),"Stephens (Raw,Ford)",19 Aug 1921,18,Cinema Attendant,Female,Single,Unknown,24,4,TNA/R39/3506/3506C/003/43
+Thompson Road,"49 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Yvonne P,Rolley (Ford),17 Nov 1937,2,Under School Age,Female,Single,Daughter,24,5,TNA/R39/3506/3506C/003/44
+Thompson Road,"50 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary,Robsin,10 Apr 1915,24,General Domestic Servant,Female,Single,Unknown,58,4,TNA/R39/3506/3506D/006/41
+Thompson Road,"50 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Myer,Bloomberg,29 Sep 1910,29,Wardrobe Dealer Busness Manag,Male,Married,Head,58,1,TNA/R39/3506/3506D/006/38
+Thompson Road,"50 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Sarah (L),Bloomberg,23 Mar 1907,32,Unpaid Domestic Duties,Female,Married,Wife,58,2,TNA/R39/3506/3506D/006/39
+Thompson Road,"52 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Arthur,Machin,18 Feb 1883,56,Steelworks Labourer,Male,Widowed,Unknown,57,4,TNA/R39/3506/3506D/006/35
+Thompson Road,"52 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Edward E,Hulme,01 Dec 1912,27,Wholesale & Retail Canned Goods Salesman,Male,Single,Unknown,57,6,TNA/R39/3506/3506D/006/37
+Thompson Road,"52 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Erwin E,Machin,09 Aug 1904,35,Engineers Small Tool Manufacturer At Steelworks (Turner),Male,Married,Head,57,1,TNA/R39/3506/3506D/006/32
+Thompson Road,"52 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ivy L,Machin,19 Sep 1904,35,Unpaid Domestic Duties,Female,Married,Wife,57,2,TNA/R39/3506/3506D/006/33
+Thompson Road,"52 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Norah,Aistrop (Machin),12 Dec 1913,26,Unpaid Domestic Duties,Female,Married,Unknown,57,5,TNA/R39/3506/3506D/006/36
+Thompson Road,"52 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Raymond A,Machin,05 Oct 1926,13,At School,Male,Single,Son,57,3,TNA/R39/3506/3506D/006/34
+Thompson Road,"53 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Annie,Crossland,30 Nov 1886,53,Unpaid Domestic Duties,Female,Married,Wife,25,2,TNA/R39/3506/3506C/004/02
+Thompson Road,"53 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Edna,Allen (Crossland),21 Oct 1911,28,Provision Merchant Ledger & Invoice Clerk,Female,Single,Daughter,25,3,TNA/R39/3506/3506C/004/03
+Thompson Road,"53 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Tom,Crossland,06 May 1884,55,Master Plumber Sanitary Engineer Lead Burner Brazier Mip Rp,Male,Married,Head,25,1,TNA/R39/3506/3506C/004/01
+Thompson Road,"54 Thompson Road, Sheffield",Y,"53.3705,-1.4951",George F,Freeman,28 Oct 1887,52,Cutlery Manufacturer (Mas),Male,Married,Head,56,1,TNA/R39/3506/3506D/006/29
+Thompson Road,"54 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Kathleen E,Mears (Freeman),20 Mar 1917,22,C? Manufacturer's Warehouse,Female,Single,Daughter,56,3,TNA/R39/3506/3506D/006/31
+Thompson Road,"54 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Lily,Freeman,05 Mar 1887,52,Unpaid Domestic Duties,Female,Married,Wife,56,2,TNA/R39/3506/3506D/006/30
+Thompson Road,"55 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Nicholas,Higgins,01 Oct 1910,29,Enigeers General Turner,Male,Married,Head,26,1,TNA/R39/3506/3506C/004/04
+Thompson Road,"55 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Sarah A,Higgins,14 Aug 1913,26,Unpaid Domestic Duties,Female,Married,Wife,26,2,TNA/R39/3506/3506C/004/05
+Thompson Road,"56 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Annie,Hewitt,13 Jun 1875,64,Unpaid Domestic Duties,Female,Married,Head,55,1,TNA/R39/3506/3506D/006/27
+Thompson Road,"56 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Henry,Hewitt,12 Jul 1877,62,Beltman At Steel Drill Worker,Male,Married,Husband,55,2,TNA/R39/3506/3506D/006/28
+Thompson Road,"57 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Mary,Sheldon,09 Apr 1894,45,Civil Servant Chemical Officer Telephone Manager Office,Female,Single,Daughter,27,3,TNA/R39/3506/3506C/004/08
+Thompson Road,"57 Thompson Road, Sheffield",Y,"53.3705,-1.4951",William H,Sheldon,13 Mar 1854,85,Electro Silver Plate Manufacturer Retired,Male,Widowed,Head,27,1,TNA/R39/3506/3506C/004/06
+Thompson Road,"57 Thompson Road, Sheffield",Y,"53.3705,-1.4951",William,Sheldon,01 Sep 1879,60,Steel Tool Maker,Male,Single,Son,27,2,TNA/R39/3506/3506C/004/07
+Thompson Road,"58 Thompson Road, Sheffield",N,"53.3705,-1.4951",,,,,,,,,,,
+Thompson Road,"59 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Alfred,Miller,08 Nov 1919,20,Cutter Fluter,Male,Single,Son,28,4,TNA/R39/3506/3506C/004/12
+Thompson Road,"59 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Alice H,Miller,12 Oct 1886,53,Unpaid Domestic Duties,Female,Married,Wife,28,2,TNA/R39/3506/3506C/004/10
+Thompson Road,"59 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Franklin,Miller,06 Apr 1918,21,Saw Hardener,Male,Single,Son,28,3,TNA/R39/3506/3506C/004/11
+Thompson Road,"59 Thompson Road, Sheffield",Y,"53.3705,-1.4951",George A,Miller,11 Nov 1884,55,Districtsecretary Under Road Transport Worker Of Eng,Male,Married,Head,28,1,TNA/R39/3506/3506C/004/09
+Thompson Road,"60 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Ann B,Row,23 May 1879,60,Unpaid Domestic Duties,Female,Married,Wife,53,2,TNA/R39/3506/3506D/006/22
+Thompson Road,"60 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Francis J,Row,11 Sep 1921,18,Journeyman Joiner For Builder,Male,Single,Son,53,4,TNA/R39/3506/3506D/006/24
+Thompson Road,"60 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Harold,Row,27 Feb 1923,16,Motor Mechanic At Automobile Dealer And Garage,Male,Single,Son,53,5,TNA/R39/3506/3506D/006/25
+Thompson Road,"60 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Nancy,Bridges (Row),10 Apr 1912,27,???,Female,Single,Daughter,53,3,TNA/R39/3506/3506D/006/23
+Thompson Road,"60 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Thomas A,Row,23 Nov 1875,64,Pork Butcher (Master Retired),Male,Married,Head,53,1,TNA/R39/3506/3506D/006/21
+Thompson Road,"61 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Arthur,Parkin,14 Mar 1885,54,Cuttery,Male,Widowed,Head,29,1,TNA/R39/3506/3506C/004/13
+Thompson Road,"61 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Leslie,Parkin,31 Oct 1909,30,Slaughter Man Butcher Heavy Worker,Male,Married,Son,29,2,TNA/R39/3506/3506C/004/14
+Thompson Road,"62 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Marian E,Cottle,07 Sep 1889,50,Unpaid Domestic Duties,Female,Married,Wife,52,2,TNA/R39/3506/3506D/006/18
+Thompson Road,"62 Thompson Road, Sheffield",Y,"53.3705,-1.4951",Walter H,Cottle,02 Nov 1892,47,Senior Clerk At Wh Smith Ltd Wholesale Distributive,Male,Married,Head,52,1,TNA/R39/3506/3506D/006/17
+Wadbrough Road,"7 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Abdul K N,Kama?din,? Dec 1918,21,A University Student Unemployed,Male,Married,Unknown,58,1,TNA/R39/3506/3506C/007/09
+Wadbrough Road,"7 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elizabeth,Tiddey,11 Nov 1854,85,Retired,Female,Married,Unknown,56,4,TNA/R39/3506/3506C/007/06
+Wadbrough Road,"7 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George Henry,Rooney,31 Aug 1890,49,Engineers Traveller (Mechanical & Electrical),Male,Married,Unknown,56,5,TNA/R39/3506/3506C/007/07
+Wadbrough Road,"7 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Gertrude,Stockil,17 Nov 1884,55,Boarding-House Keeper,Female,Single,Unknown,56,1,TNA/R39/3506/3506C/007/03
+Wadbrough Road,"7 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",John,Mahon,27 Jan 1910,29,Salesman Smallwares,Male,Single,Unknown,56,2,TNA/R39/3506/3506C/007/04
+Wadbrough Road,"7 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Walter,Wilkinson,07 Nov 1869,70,Illustrator Engineering Devices,Male,Married,Unknown,57,1,TNA/R39/3506/3506C/007/08
+Wadbrough Road,"8 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ellen E,Wright,25 Jan 1870,69,Unpaid Domestic Duties,Female,Widowed,Unknown,55,2,TNA/R39/3506/3506C/007/02
+Wadbrough Road,"8 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Robert,Wright,11 Sep 1860,79,Pastor (Methodist),Male,Single,Head,55,1,TNA/R39/3506/3506C/007/01
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ethel M,Haskard (Slater),02 Oct 1911,28,Unpaid Domestic Duties,Female,Married,Wife,59,2,TNA/R39/3506/3506C/007/11
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Frank,Arber,10 Apr 1904,35,Bus Driver,Male,Single,Head,60,1,TNA/R39/3506/3506C/007/15
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jesse Edwin,Slater,16 Feb 1910,29,Commercial Lorry Driver Unemployed,Male,-,Head,59,1,TNA/R39/3506/3506C/007/10
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jessie,Wright,27 Nov 1911,28,Bar And General Maid,Female,Married,Unknown,59,5,TNA/R39/3506/3506C/007/14
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",John,Upton,13 Aug 1920,19,Assistant In Fireplace Showroom,Male,Married,Head_other,59,3,TNA/R39/3506/3506C/007/12
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mary,Arber,15 Oct 1906,33,Unpaid Domestic Duties,Female,Married,Unknown,60,2,TNA/R39/3506/3506C/007/16
+Wadbrough Road,"9 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Samuel,Wright,18 Apr 1892,47,Ironmonger's Shop Assistant,Male,Married,Unknown,59,4,TNA/R39/3506/3506C/007/13
+Wadbrough Road,"10 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Alice E,Beet,02 Jul 1893,46,Unpaid Domestic Duties,Female,Married,Wife,54,2,TNA/R39/3506/3506C/006/43
+Wadbrough Road,"10 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Frank,Beet,17 Sep 1888,51,Municipal Officer Plumbing Inspector,Male,Married,Head,54,1,TNA/R39/3506/3506C/006/42
+Wadbrough Road,"10 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Philip H,Beet,05 Apr 1919,20,Honours Civil Engineering St Sheffield University,Male,Single,Son,54,3,TNA/R39/3506/3506C/006/44
+Wadbrough Road,"11 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Arthur,Cottam,10 Oct 1913,26,Steel Machine Moulder,Male,Single,Unknown,61,4,TNA/R39/3506/3506C/007/21
+Wadbrough Road,"11 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Charles H,Kynman,19 Jan 1882,57,Bricklayers Lanbourer Armament And Aircraft Steel,Male,Married,Head,61,1,TNA/R39/3506/3506C/007/18
+Wadbrough Road,"11 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ellen,Cottam,25 Jul 1913,26,Unpaid Domestic Duties,Female,Married,Unknown,61,5,TNA/R39/3506/3506C/007/22
+Wadbrough Road,"11 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ellen,Kynman,08 Oct 1887,52,Unpaid Domestic Duties,Female,Married,Wife,61,2,TNA/R39/3506/3506C/007/19
+Wadbrough Road,"11 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George,Kynman,04 Jun 1911,28,Steel Rolling Mill,Male,Single,Son,61,3,TNA/R39/3506/3506C/007/20
+Wadbrough Road,"12 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Emma,Weatley,23 Apr 1884,55,Unpaid Domestic Duties,Female,Married,Wife,53,2,TNA/R39/3506/3506C/006/40
+Wadbrough Road,"12 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Margaret B,Weatley,30 Jun 1920,19,Shorthand Typist Steelworks,Female,Single,Daughter,53,3,TNA/R39/3506/3506C/006/41
+Wadbrough Road,"12 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",William B,Weatley,24 Jun 1888,51,Master Boot Repairer,Male,Married,Head,53,1,TNA/R39/3506/3506C/006/39
+Wadbrough Road,"13 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Florence E,Nash,23 Aug 1867,72,Unpaid Domestic Duties,Female,Married,Wife,62,2,TNA/R39/3506/3506C/007/24
+Wadbrough Road,"13 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",John R,Nash,30 Jun 1869,70,Printer (Retired),Male,Married,Head,62,1,TNA/R39/3506/3506C/007/23
+Wadbrough Road,"14 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Catherine,Chapman,01 Aug 1908,31,Unpaid Domestic Duties,Female,Married,Head,52,1,TNA/R39/3506/3506C/006/34
+Wadbrough Road,"14 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jemma,Walker,25 Dec 1862,77,Unpaid Domestic Duties,Female,Widowed,Unknown,52,5,TNA/R39/3506/3506C/006/38
+Wadbrough Road,"14 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Joseph,Chapman,12 Jun 1902,37,Tram Conductor,Male,Married,Husband,52,2,TNA/R39/3506/3506C/006/35
+Wadbrough Road,"14 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Keith A,Chapman,11 Mar 1932,7,At School,Male,Single,Son,52,3,TNA/R39/3506/3506C/006/36
+Wadbrough Road,"14 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Stanley A,Shaw (Chapman),08 Jul 1935,4,Under School Age,Male,Single,Son,52,4,TNA/R39/3506/3506C/006/37
+Wadbrough Road,"15 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Dorothy,Dawes,22 Mar 1910,29,Directors Secretary Steel Works,Female,Divorced,Unknown,63,2,TNA/R39/3506/3506C/007/26
+Wadbrough Road,"15 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Martha E,Dawes,17 Dec 1867,72,Unpaid Domestic Duties,Female,Widowed,Head,63,1,TNA/R39/3506/3506C/007/25
+Wadbrough Road,"16 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Annie,Sefton,22 Jun 1873,66,Unpaid Domestic Duties,Female,Widowed,Unknown,50,2,TNA/R39/3506/3506C/006/31
+Wadbrough Road,"16 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Marion,Vasey,10 Mar 1878,61,None Permanent Bed Ridden Invalid,Female,Widowed,Unknown,50,1,TNA/R39/3506/3506C/006/30
+Wadbrough Road,"16 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Rode? Mck,Bennett,30 Jun 1908,31,Departmental Store ?ant,Male,Married,Head,51,1,TNA/R39/3506/3506C/006/32
+Wadbrough Road,"16 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Winifred,Bennett,04 Sep 1917,22,Unpaid Domestic Duties,Female,Married,Wife,51,2,TNA/R39/3506/3506C/006/33
+Wadbrough Road,"17 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Edna M,Sibley (Lloyd),30 May 1906,33,Municipal Midwife,Female,Married,Unknown,64,2,TNA/R39/3506/3506C/007/28
+Wadbrough Road,"17 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elizabeth M,Lloyd,08 Mar 1884,55,Unpaid Domestic Duties,Female,Married,Head,64,1,TNA/R39/3506/3506C/007/27
+Wadbrough Road,"18 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ethel,Chapman,02 Jan 1903,36,Unpaid Domestic Duties,Female,Married,Wife,49,2,TNA/R39/3506/3506C/006/28
+Wadbrough Road,"18 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",William O,Chapman,27 Sep 1897,42,Elementary School Teacher,Male,Married,Head,49,1,TNA/R39/3506/3506C/006/27
+Wadbrough Road,"18 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",-,Stanley K,03 Dec 1924,15,At School,Male,Single,Unknown,49,3,TNA/R39/3506/3506C/006/29
+Wadbrough Road,"19 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",James E,Watmore,18 Sep 1880,59,Engineers Toolmaker,Male,Married,Head,65,1,TNA/R39/3506/3506C/007/29
+Wadbrough Road,"19 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jane E,Watmore,29 Oct 1873,66,Unpaid Domestic Duties,Female,Married,Wife,65,2,TNA/R39/3506/3506C/007/30
+Wadbrough Road,"20 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Emily,Duckworth,27 Nov 1899,40,Unpaid Domestic Duties,Female,Married,Wife,48,2,TNA/R39/3506/3506C/006/21
+Wadbrough Road,"20 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",John R,Duckworth,31 Oct 1926,13,At School,Male,Single,Son,48,4,TNA/R39/3506/3506C/006/23
+Wadbrough Road,"20 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Robert W,Duckworth,15 Sep 1933,6,At School,Male,Single,Son,48,6,TNA/R39/3506/3506C/006/25
+Wadbrough Road,"20 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Walter J,Duckworth,01 Jul 1894,45,Postman,Male,Married,Head,48,1,TNA/R39/3506/3506C/006/20
+Wadbrough Road,"21 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",~???,Ibbotson,? Sep 1912,27,French Polisher,Unknown,Married,Unknown,66,5,TNA/R39/3506/3506C/007/35
+Wadbrough Road,"21 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Dorothy H,Sheldon (Snowley),21 Jan 1920,19,Confectioner ?tant,Female,Single,Daughter,66,3,TNA/R39/3506/3506C/007/33
+Wadbrough Road,"21 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Edward G,Snowley,08 Apr 1894,45,Works Supervisor And Staffmanager (C),Male,Widowed,Head,66,1,TNA/R39/3506/3506C/007/31
+Wadbrough Road,"21 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Lavina,Snowley,02 Jun 1891,48,???,Female,Widowed,Unknown,66,2,TNA/R39/3506/3506C/007/32
+Wadbrough Road,"22 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Beatrice V,Richardson,18 Mar 1887,52,Unpaid Domestic Duties,Female,Married,Wife,47,2,TNA/R39/3506/3506C/006/19
+Wadbrough Road,"22 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Samuel O,Richardson,20 Aug 1883,56,Glazier Buffer & Mirror Polisher On Brass Carbon Steel & Stailees W,Male,Married,Head,47,1,TNA/R39/3506/3506C/006/18
+Wadbrough Road,"23 Wadbrough Road, Sheffield",N,"53.3698,-1.4966",,,,,,,,,,,
+Wadbrough Road,"24 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Betty,Murphy (Mosewood),19 Mar 1923,16,Lift Attendant (Temporary),Female,Single,Daughter,46,3,TNA/R39/3506/3506C/006/15
+Wadbrough Road,"24 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Betty,Murphy (Mosewood),19 Mar 1923,16,Lift Attendant (Temporary),Female,Single,Daughter,46,3,TNA/R39/3506/3506C/024/06
+Wadbrough Road,"24 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Godfrey,Mosewood,09 Jun 1895,44,Wholesale Fruit Merchants (Manager),Male,Married,Head,46,1,TNA/R39/3506/3506C/006/13
+Wadbrough Road,"24 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Godfrey,Mosewood,12 Mar 1929,10,At School,Male,Single,Son,46,4,TNA/R39/3506/3506C/006/16
+Wadbrough Road,"24 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Violet,Mosewood,04 Jun 1894,45,Unpaid Domestic Duties,Female,Married,Wife,46,2,TNA/R39/3506/3506C/006/14
+Wadbrough Road,"25 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Violet,Moseley,? Mar 1891,48,Unpaid Domestic Duties,Female,Widowed,Unknown,68,2,TNA/R39/3506/3506C/007/38
+Wadbrough Road,"25 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",William H,Moseley,15 Dec 1874,65,Spectacle Frame Maker,Male,Married,Head,68,1,TNA/R39/3506/3506C/007/37
+Wadbrough Road,"26 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Frederick,Booth,26 Dec 1889,50,Maintenance Fitter Heavy Worker,Male,Married,Head,45,1,TNA/R39/3506/3506C/006/09
+Wadbrough Road,"26 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Gladys,Booth,09 Dec 1895,44,Unpaid Domestic Duties,Female,Married,Wife,45,2,TNA/R39/3506/3506C/006/10
+Wadbrough Road,"26 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Kathleen,Hulley (Booth),17 May 1928,11,At School,Female,Single,Daughter,45,3,TNA/R39/3506/3506C/006/11
+Wadbrough Road,"27 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eileen E,Dawwes,10 Jul 1866,73,Unpaid Domestic Duties,Female,Married,Wife,69,2,TNA/R39/3506/3506C/007/40
+Wadbrough Road,"27 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George A,Dawwes,16 Aug 1865,74,Saw Maker Manager (Retired),Male,Married,Head,69,1,TNA/R39/3506/3506C/007/39
+Wadbrough Road,"27 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",William,Dawwes,06 Mar 1899,40,Civil Servant Retired Sick,Male,Married,Son,69,3,TNA/R39/3506/3506C/007/41
+Wadbrough Road,"28 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jack J,Needham,09 Aug 1901,38,Elementary Assistant School Mistress,Female,Single,Daughter,44,2,TNA/R39/3506/3506C/006/08
+Wadbrough Road,"28 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Sarah E,Needham,12 Jun 1869,70,Unpaid Domestic Duties,Female,Widowed,Head,44,1,TNA/R39/3506/3506C/006/07
+Wadbrough Road,"29 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Andrew L,Williams,13 Apr 1938,1,Under School Age,Male,Single,Son,70,3,TNA/R39/3506/3506C/007/44
+Wadbrough Road,"29 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Emily M,Williams,17 May 1902,37,Unpaid Domestic Duties,Female,Married,Unknown,70,2,TNA/R39/3506/3506C/007/43
+Wadbrough Road,"29 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Lawrence,Williams,26 Apr 1888,51,Manager General Engineering Works & Draughtsman,Male,Married,Head,70,1,TNA/R39/3506/3506C/007/42
+Wadbrough Road,"30 Wadbrough Road, Sheffield",N,"53.3698,-1.4966",,,,,,,,,,,
+Wadbrough Road,"31 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Annie E,Summers,19 Dec 1874,65,Unpaid Domestic Duties,Female,Married,Wife,71,2,TNA/R39/3506/3506C/008/02
+Wadbrough Road,"31 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Walter,Summers,13 Nov 1872,67,Engineers Dispatch Clerk,Male,Married,Head,71,1,TNA/R39/3506/3506C/008/01
+Wadbrough Road,"32 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Edith,Guest,27 Jun 1876,63,Unpaid Domestic Duties,Female,Married,Wife,42,2,TNA/R39/3506/3506C/006/05
+Wadbrough Road,"32 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Thomas,Guest,10 Oct 1878,61,Surgical Inst Maker,Male,Married,Head,42,1,TNA/R39/3506/3506C/006/04
+Wadbrough Road,"33 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mabel,Bingham,05 Oct 1905,34,Unpaid Domestic Duties,Female,Married,Wife,72,2,TNA/R39/3506/3506C/008/04
+Wadbrough Road,"33 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",William R,Bingham,23 Jun 1892,47,Window Ticket Showcard & Poster Writer (Own Business),Male,Married,Head,72,1,TNA/R39/3506/3506C/008/03
+Wadbrough Road,"34 Wadbrough Road, Sheffield",N,"53.3698,-1.4966",,,,,,,,,,,
+Wadbrough Road,"35 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Cyril,Whiteley,07 Feb 1923,16,Chartered Accounts Clerk,Male,Single,Son,73,5,TNA/R39/3506/3506C/008/10
+Wadbrough Road,"35 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eric,Whiteley,18 Jul 1916,23,Butcher's Assistant,Male,Single,Son,73,3,TNA/R39/3506/3506C/008/08
+Wadbrough Road,"35 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Harry,Whiteley,07 Dec 1882,57,Pork Butcher Salesman,Male,Married,Head,73,1,TNA/R39/3506/3506C/008/06
+Wadbrough Road,"35 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Leslie,Whiteley,22 Oct 1919,20,Pork Butcher,Male,Single,Son,73,4,TNA/R39/3506/3506C/008/09
+Wadbrough Road,"35 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Sarah A,Whiteley,08 Sep 1884,55,Unpaid Domestic Duties,Female,Married,Wife,73,2,TNA/R39/3506/3506C/008/07
+Wadbrough Road,"36 Wadbrough Road, Sheffield",N,"53.3698,-1.4966",,,,,,,,,,,
+Wadbrough Road,"37 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Alfred C,Clayton,08 Nov 1891,48,Centre Lathe Turner (General Engineering),Male,Married,Head,74,1,TNA/R39/3506/3506C/008/11
+Wadbrough Road,"37 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Colin M,Clayton,31 Oct 1923,16,Pupil (Architect),Male,Single,Son,74,3,TNA/R39/3506/3506C/008/13
+Wadbrough Road,"37 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elsie A,Clayton,03 Feb 1891,48,Unpaid Domestic Duties,Female,Married,Wife,74,2,TNA/R39/3506/3506C/008/12
+Wadbrough Road,"38 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Edith,Knight,12 Sep 1881,58,Unpaid Domestic Duties,Female,-,Unknown,39,1,TNA/R39/3506/3506C/004/44
+Wadbrough Road,"38 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jessie,Hall,01 Nov 1883,56,Typist With Electrical Firm Engaged On War Work,Female,Single,Unknown,39,2,TNA/R39/3506/3506C/006/01
+Wadbrough Road,"39 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Alfred R,Russell,16 Feb 1886,53,Photo Engraver,Male,Married,Head,75,1,TNA/R39/3506/3506C/008/14
+Wadbrough Road,"39 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Betty M G (J),"Foy (Bye,Russell)",02 Feb 1916,23,Shop Assistant Booty Shoes,Female,Single,Unknown,75,3,TNA/R39/3506/3506C/008/16
+Wadbrough Road,"39 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mildred J G,Russell,21 Oct 1885,54,Unpaid Domestic Duties,Female,Married,Wife,75,2,TNA/R39/3506/3506C/008/15
+Wadbrough Road,"40 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Angelina,Fidler,05 Jul 1860,79,Unpaid Domestic Duties,Female,Widowed,Head,38,1,TNA/R39/3506/3506C/004/40
+Wadbrough Road,"40 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mary,Fidler,16 May 1901,38,Unpaid Domestic Duties,Female,Single,Daughter,38,2,TNA/R39/3506/3506C/004/41
+Wadbrough Road,"40 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Robert A L,Leggett,14 Oct 1914,25,Trainee Manager Chain Sh,Male,Single,Unknown,38,4,TNA/R39/3506/3506C/004/43
+Wadbrough Road,"40 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Winifred,"Cutts (Gibson,Humphreys)",09 Sep 1909,30,Supervisor Chain Store,Female,Single,Unknown,38,3,TNA/R39/3506/3506C/004/42
+Wadbrough Road,"41 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Arthur E,Baker,17 Oct 1867,72,Cabinet Maker (Retired),Male,Married,Unknown,76,5,TNA/R39/3506/3506C/008/21
+Wadbrough Road,"41 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Donald S,Baker,07 Mar 1939,0,Under School Age,Male,Single,Son,76,2,TNA/R39/3506/3506C/008/18
+Wadbrough Road,"41 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jessie,Baker,19 Jun 1873,66,Unpaid Domestic Duties,Female,Married,Unknown,76,4,TNA/R39/3506/3506C/008/20
+Wadbrough Road,"41 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mary C,Baker,09 Jun 1907,32,Unpaid Domestic Duties,Female,Married,Unknown,76,3,TNA/R39/3506/3506C/008/19
+Wadbrough Road,"41 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Maurice C,Baker,01 Oct 1906,33,(Master) Window Cleaner,Male,Married,Head,76,1,TNA/R39/3506/3506C/008/17
+Wadbrough Road,"42 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Barnett,White,21 Dec 1877,62,Drapery Traveller,Male,Married,Head,37,1,TNA/R39/3506/3506C/004/37
+Wadbrough Road,"42 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Esther R,White,09 Dec 1908,31,Drapery Traveller,Female,Single,Daughter,37,3,TNA/R39/3506/3506C/004/39
+Wadbrough Road,"42 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Janie,White,15 May 1876,63,Unpaid Domestic Duties,Female,Married,Wife,37,2,TNA/R39/3506/3506C/004/38
+Wadbrough Road,"43 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ada L,Bell,17 Mar 1907,32,Unpaid Domestic Duties,Female,Married,Unknown,77,1,TNA/R39/3506/3506C/008/22
+Wadbrough Road,"43 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Thomas,Eggleston,05 Jan 1860,79,Steel Rolling Mill Foreman Retired,Male,Widowed,Unknown,77,3,TNA/R39/3506/3506C/008/24
+Wadbrough Road,"43 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Winifred J,Hale (Mcfarlane),15 Jan 1918,21,Paid Domestic,Female,Single,Unknown,77,2,TNA/R39/3506/3506C/008/23
+Wadbrough Road,"44 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Agnes M,Meek,16 Dec 1885,54,Unpaid Domestic Duties,Female,Married,Wife,36,2,TNA/R39/3506/3506C/004/32
+Wadbrough Road,"44 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eileen G,Ashford (Meek),03 Apr 1919,20,Shorthand Typist Wireless Factory,Female,Single,Daughter,36,5,TNA/R39/3506/3506C/004/35
+Wadbrough Road,"44 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Phyllis L,Walker (Meek),28 Jun 1917,22,Draper's Shop Assistant,Female,Single,Daughter,36,4,TNA/R39/3506/3506C/004/34
+Wadbrough Road,"44 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Samuel G,Meek,19 Oct 1889,50,Departmental Manager & Buyer Butchery Dept,Male,Married,Head,36,1,TNA/R39/3506/3506C/004/31
+Wadbrough Road,"44 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Sidney Thomas,Meek,28 Jun 1921,18,Wholesale Meat Salesman Assistance,Male,Single,Son,36,6,TNA/R39/3506/3506C/004/36
+Wadbrough Road,"44 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Sylvia B,Meek,06 Nov 1916,23,Unpaid Domestic Duties,Female,Single,Daughter,36,3,TNA/R39/3506/3506C/004/33
+Wadbrough Road,"45 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ernest M,Horner,28 Jun 1891,48,Assistant Public Assistance Officer,Male,Married,Head,78,1,TNA/R39/3506/3506C/008/25
+Wadbrough Road,"45 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Evelyn P,Horner,09 Apr 1890,49,Unpaid Domestic Duties,Female,Married,Wife,78,2,TNA/R39/3506/3506C/008/26
+Wadbrough Road,"45 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Gordon S,Horner,20 Apr 1921,18,Student,Male,Single,Son,78,3,TNA/R39/3506/3506C/008/27
+Wadbrough Road,"46 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Annie,Clarke,14 Jan 1858,81,Private Means,Female,Widowed,Head,35,1,TNA/R39/3506/3506C/004/29
+Wadbrough Road,"46 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mabel A,Clarke,13 Mar 1891,48,Private Means,Female,Single,Daughter,35,2,TNA/R39/3506/3506C/004/30
+Wadbrough Road,"47 Wadbrough Road, Sheffield",N,"53.3698,-1.4966",,,,,,,,,,,
+Wadbrough Road,"48 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Clara,Ward,12 Jun 1885,54,Housewife (Sick),Female,Married,Wife,34,2,TNA/R39/3506/3506C/004/27
+Wadbrough Road,"48 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eva,Wass (Ward),01 Feb 1912,27,Huosehold Duties,Female,Single,Daughter,34,3,TNA/R39/3506/3506C/004/28
+Wadbrough Road,"48 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ford E,Ward,07 Jul 1886,53,Police Pensioner,Male,Married,Head,34,1,TNA/R39/3506/3506C/004/26
+Wadbrough Road,"49 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Edwin A,Close,02 Dec 1924,15,Shop Assistant Tea W Coffe,Male,Single,Son,80,3,TNA/R39/3506/3506C/008/31
+Wadbrough Road,"49 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George H,Close,19 Sep 1894,45,Lea?er Case Maker For Tape Measures,Male,Married,Head,80,1,TNA/R39/3506/3506C/008/29
+Wadbrough Road,"49 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Pamela M,Oates (Close),11 Jun 1929,10,At School,Female,Single,Daughter,80,4,TNA/R39/3506/3506C/008/32
+Wadbrough Road,"49 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Pamela,Close,23 Dec 1901,38,Unpaid Domestic Duties,Female,Married,Wife,80,2,TNA/R39/3506/3506C/008/30
+Wadbrough Road,"50 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Frederick W,Bradbury,25 Sep 1870,69,Msater Brass And Wood Tur Jouner Tool Trade (Retired),Male,Married,Head,33,1,TNA/R39/3506/3506C/004/24
+Wadbrough Road,"50 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Millicent,Bradbury,16 Mar 1873,66,Unpaid Domestic Duties,Female,Married,Wife,33,2,TNA/R39/3506/3506C/004/25
+Wadbrough Road,"51 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Emma,Goddard,24 Oct 1846,93,Incapacitated,Female,Widowed,Unknown,81,5,TNA/R39/3506/3506C/008/37
+Wadbrough Road,"51 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Lorna W,Greaves (Goddard),? Dec 1914,25,Wages Clerk En?eers Small Tool Works,Female,Single,Daughter,81,3,TNA/R39/3506/3506C/008/35
+Wadbrough Road,"51 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Samuel F,Goddard,10 Nov 1873,66,Ivory Handle & Scale Cutter,Male,Married,Head,81,1,TNA/R39/3506/3506C/008/33
+Wadbrough Road,"51 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Samuel P,Goddard,10 Nov 1921,18,Junior Solicitors Clerk,Male,Single,Son,81,4,TNA/R39/3506/3506C/008/36
+Wadbrough Road,"52 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ada E F,Astwood (Tipping),15 Mar 1894,45,Housekeeper,Female,Married,Unknown,32,3,TNA/R39/3506/3506C/004/23
+Wadbrough Road,"52 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Bessie,Astwood,27 Dec 1921,18,Draper's Shop Assistant,Female,Single,Daughter,32,2,TNA/R39/3506/3506C/004/22
+Wadbrough Road,"52 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",William C,Astwood,02 May 1878,61,Paston Spring Maker Foreman,Male,Widowed,Head,32,1,TNA/R39/3506/3506C/004/21
+Wadbrough Road,"53 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elizabeth,Roberts,20 Jun 1874,65,Unpaid Domestic Duties,Female,Married,Wife,82,2,TNA/R39/3506/3506C/008/39
+Wadbrough Road,"53 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George H,Roberts,15 Jul 1876,63,Provision Merchants Clerk,Male,Married,Head,82,1,TNA/R39/3506/3506C/008/38
+Wadbrough Road,"53 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mary M,Handley (Roberts),08 Jul 1903,36,Provision Merchants Audit Clerk,Female,Single,Daughter,82,3,TNA/R39/3506/3506C/008/40
+Wadbrough Road,"54 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mary A,Richardson,18 Aug 1877,62,Unpaid Domestic Duties,Female,Married,Wife,31,2,TNA/R39/3506/3506C/004/20
+Wadbrough Road,"54 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Richard C,Richardson,13 Jan 1872,67,Dairyman (Retired),Male,Married,Head,31,1,TNA/R39/3506/3506C/004/19
+Wadbrough Road,"55 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",James W,Reynolds,03 Oct 1903,36,General Manager Bolt & Nut Co,Male,Married,Head,83,1,TNA/R39/3506/3506C/008/41
+Wadbrough Road,"55 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Lilian,Reynolds,04 Sep 1904,35,Domestic Duties,Female,Single,Unknown,83,3,TNA/R39/3506/3506C/008/43
+Wadbrough Road,"55 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Maud E,Reynolds,23 Apr 1879,60,Domestic Duties,Female,Married,Wife,83,2,TNA/R39/3506/3506C/008/42
+Wadbrough Road,"55 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Nora M (Muriel M),Evans (Reynolds),15 Dec 1913,26,Typist Sporthand Insurance Co,Female,Single,Unknown,83,4,TNA/R39/3506/3506C/008/44
+Wadbrough Road,"55 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ronald S,Reynolds,25 Dec 1923,16,Engineering Draughtsman Apprentice,Male,Single,Son,83,5,TNA/R39/3506/3506C/009/01
+Wadbrough Road,"56 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elsie M,Lloyd,08 Jul 1895,44,Unpaid Domestic Duties,Female,Married,Wife,30,2,TNA/R39/3506/3506C/004/16
+Wadbrough Road,"56 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Harry,Lloyd,16 Jan 1898,41,Scientific Officer Safety In Mines Researcher Electrical Engineering Section,Male,Married,Head,30,1,TNA/R39/3506/3506C/004/15
+Wadbrough Road,"56 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jean F,Lloyd,17 Sep 1925,14,At School,Female,Single,Daughter,30,3,TNA/R39/3506/3506C/004/17
+Wadbrough Road,"56 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Peter F,Lloyd,25 Aug 1930,9,At School,Male,Single,Son,30,4,TNA/R39/3506/3506C/004/18
+Wadbrough Road,"57 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Horace,Liversidge,25 Oct 1901,38,Rent & Debit Collector,Male,Married,Head,84,1,TNA/R39/3506/3506C/009/02
+Wadbrough Road,"57 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Lucy A,Liversidge,18 Nov 1862,77,Unpaid Domestic Duties,Female,Married,Unknown,84,4,TNA/R39/3506/3506C/009/05
+Wadbrough Road,"57 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Muriel,Liversidge,07 Jun 1906,33,Unpaid Domestic Duties,Female,Married,Wife,84,2,TNA/R39/3506/3506C/009/03
+Wadbrough Road,"57 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Walter,Liversidge,09 Nov 1864,75,Lift Attendant,Male,Married,Unknown,84,3,TNA/R39/3506/3506C/009/04
+Wadbrough Road,"59 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Constance I,Butler,11 Mar 1901,38,Unpaid Domestic Duties,Female,Married,Wife,85,2,TNA/R39/3506/3506C/009/07
+Wadbrough Road,"59 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George H,Butler,29 Jun 1901,38,Varnish Industrial Finishers Works Manager,Male,Married,Head,85,1,TNA/R39/3506/3506C/009/06
+Wadbrough Road,"60 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Ena,Dent,16 Jun 1921,18,Shorthand Typist Clerk Newspaper,Female,Single,Daughter,47,4,TNA/R39/3506/3506D/006/04
+Wadbrough Road,"60 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George L,Dent,31 Dec 1888,51,Letterpress Compositor At Printing Office,Male,Married,Head,47,1,TNA/R39/3506/3506D/006/01
+Wadbrough Road,"60 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George,Dent,10 Jun 1915,24,Shop Assistant - Hairdresser,Male,Single,Son,47,3,TNA/R39/3506/3506D/006/03
+Wadbrough Road,"60 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mavis,Hill (Dent),29 Jun 1927,12,At School,Female,Single,Daughter,47,5,TNA/R39/3506/3506D/006/05
+Wadbrough Road,"60 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Sarah,Dent,22 Jan 1893,46,Unpaid Domestic Duties,Female,Married,Wife,47,2,TNA/R39/3506/3506D/006/02
+Wadbrough Road,"61 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Maisie,Gordon,07 Jul 1913,26,Unpaid Domestic Duties,Female,Married,Wife,86,2,TNA/R39/3506/3506C/009/11
+Wadbrough Road,"61 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Solomon,Gordon,30 Jan 1902,37,Greengrocer (Roundsman),Male,Married,Head,86,1,TNA/R39/3506/3506C/009/10
+Wadbrough Road,"62 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Alfred,Hall,17 Aug 1897,42,Journeyman Bread Baker & Cake Confectioner,Male,Married,Head,48,1,TNA/R39/3506/3506D/006/06
+Wadbrough Road,"62 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Dora,Hall,03 Jan 1904,35,Unpaid Domestic Duties,Female,Married,Wife,48,2,TNA/R39/3506/3506D/006/07
+Wadbrough Road,"63 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",George H,Loy,20 Jun 1899,40,Progress Clerk Munitions,Male,Married,Head,87,1,TNA/R39/3506/3506C/009/13
+Wadbrough Road,"63 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Lilian,Loy,14 Sep 1899,40,Unpaid Domestic Duties,Female,Married,Wife,87,2,TNA/R39/3506/3506C/009/14
+Wadbrough Road,"64 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Maud,Heathcote,17 Dec 1881,58,General Grocer (Dealer),Female,Widowed,Unknown,49,1,TNA/R39/3506/3506D/006/10
+Wadbrough Road,"64 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mona,"Durber,Fisher",05 Nov 1923,16,Domestic Servant (General),Female,Single,Unknown,49,2,TNA/R39/3506/3506D/006/11
+Wadbrough Road,"65 Wadbrough Road, Sheffield",N,"53.3698,-1.4966",,,,,,,,,,,
+Wadbrough Road,"66 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Rosa J,McKie,28 Apr 1880,59,Unpaid Domestic Duties,Female,Widowed,Unknown,50,1,TNA/R39/3506/3506D/006/12
+Wadbrough Road,"67 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Hilary,Carlisle (Ludlam),01 Feb 1922,17,At School,Female,Single,Unknown,89,3,TNA/R39/3506/3506C/009/18
+Wadbrough Road,"67 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Irene,Carlisle,26 Mar 1895,44,Unpaid Domestic Duties,Female,Married,Wife,89,2,TNA/R39/3506/3506C/009/17
+Wadbrough Road,"67 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Robert,Carlisle,24 Feb 1889,50,Head Teacher Primary,Male,Married,Head,89,1,TNA/R39/3506/3506C/009/16
+Wadbrough Road,"68 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Beatrice,Machell,04 Dec 1894,45,Unpaid Domestic Duties,Female,Married,Wife,51,2,TNA/R39/3506/3506D/006/14
+Wadbrough Road,"68 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eric S,Machell,26 Feb 1920,19,Medical Student,Male,Single,Son,51,3,TNA/R39/3506/3506D/006/15
+Wadbrough Road,"68 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Mary A,Hollindale,04 Jan 1862,77,Unpaid Domestic Duties,Female,Widowed,Unknown,51,4,TNA/R39/3506/3506D/006/16
+Wadbrough Road,"68 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Samuel,Machell,03 Mar 1887,52,Railway Clerk (Accountancy Office),Male,Married,Head,51,1,TNA/R39/3506/3506D/006/13
+Wadbrough Road,"69 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Gertrude,Motley,03 Jul 1874,65,Unpaid Domestic Duties,Female,Married,Wife,90,2,TNA/R39/3506/3506C/009/20
+Wadbrough Road,"69 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",John W,Motley,04 Oct 1894,45,Joiner,Male,Married,Head,90,1,TNA/R39/3506/3506C/009/19
+Wadbrough Road,"71 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Charles,Nicholson,11 Feb 1886,53,Ministry Of Labour Temporary Clerk,Male,Married,Head,91,1,TNA/R39/3506/3506C/009/21
+Wadbrough Road,"71 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eileen D,Brown (Nicholson),03 Aug 1919,20,Drapery Shop Assistant,Female,Single,Daughter,91,4,TNA/R39/3506/3506C/009/24
+Wadbrough Road,"71 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elizabeth E,Nicholson,15 Jan 1888,51,Unpaid Domestic Duties,Female,Married,Wife,91,2,TNA/R39/3506/3506C/009/22
+Wadbrough Road,"71 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Eric K,Nicholson,29 Apr 1915,24,Internal Combustion Engine Maintanance Fitter,Male,Single,Son,91,3,TNA/R39/3506/3506C/009/23
+Wadbrough Road,"71 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Norman P,Nicholson,25 Oct 1923,16,Shop Assistant Boot & Shoes,Male,Single,Son,91,5,TNA/R39/3506/3506C/009/25
+Wadbrough Road,"73 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Gladys M,Guyler,13 May 1894,45,Cashier In Drapery Department,Female,Single,Daughter,92,2,TNA/R39/3506/3506C/009/27
+Wadbrough Road,"73 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Louisa,Guyler,08 Oct 1866,73,Unpaid Domestic Duties,Female,Widowed,Head,92,1,TNA/R39/3506/3506C/009/26
+Wadbrough Road,"75 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Herbert B,Jackson,09 Oct 1900,39,Savings Bank Clerk,Male,Married,Head,93,1,TNA/R39/3506/3506C/009/28
+Wadbrough Road,"75 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Marjorie E,Jackson,30 Aug 1901,38,Unpaid Domestic Duties,Female,Married,Wife,93,2,TNA/R39/3506/3506C/009/29
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Celia E,Prepsler,02 Feb 1925,14,At School,Female,Single,Daughter,94,5,TNA/R39/3506/3506C/022/26
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Celia E,Shalom (Prepsler),02 Feb 1925,14,At School,Female,Single,Daughter,94,5,TNA/R39/3506/3506C/022/30
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elsie,Prepsler,07 Feb 1895,44,Unpaid Domestic Duties,Female,Married,Wife,94,2,TNA/R39/3506/3506C/009/33
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Elza E,Prepsler,02 Feb 1925,14,At School,Female,Single,Daughter,94,5,TNA/R39/3506/3506C/009/36
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Jonas,Prepsler,24 Oct 1922,17,Student Engineering,Male,Single,Son,94,4,TNA/R39/3506/3506C/009/35
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Joseph,Prepsler,15 Jan 1890,49,Master Tailor,Male,Married,Head,94,1,TNA/R39/3506/3506C/009/32
+Wadbrough Road,"77 Wadbrough Road, Sheffield",Y,"53.3698,-1.4966",Theba,Prepsler,28 Mar 1921,18,Shorthand Typist Timber Merchants,Female,Single,Daughter,94,3,TNA/R39/3506/3506C/009/34
+Walton Road,"1 Walton Road, Sheffield",Y,"53.3699,-1.4957",Ada,Goodinson,01 Jan 1890,49,Unpaid Domestic Duties,Female,Married,Wife,1,2,TNA/R39/3506/3506C/002/02
+Walton Road,"1 Walton Road, Sheffield",Y,"53.3699,-1.4957",Betty,Goodinson,30 Apr 1923,16,Index Clerk Mail Order Business,Female,Single,Daughter,1,4,TNA/R39/3506/3506C/002/04
+Walton Road,"1 Walton Road, Sheffield",Y,"53.3699,-1.4957",Joyce Mary,Goodinson,21 May 1918,21,Shorthand Typist Oil Worker,Female,Single,Daughter,1,3,TNA/R39/3506/3506C/002/03
+Walton Road,"1 Walton Road, Sheffield",Y,"53.3699,-1.4957",Lucy,Ducker,20 Dec 1853,86,Unpaid Domestic Duties,Female,Widowed,Unknown,1,7,TNA/R39/3506/3506C/002/07
+Walton Road,"1 Walton Road, Sheffield",Y,"53.3699,-1.4957",Sydney,Goodinson,09 Feb 1890,49,Assurance Agent,Male,Married,Head,1,1,TNA/R39/3506/3506C/002/01
+Walton Road,"3 Walton Road, Sheffield",Y,"53.3699,-1.4957",George,Forrest,04 Jan 1911,28,Nair Dresser Shop Keeper,Male,Married,Head,2,2,TNA/R39/3506/3506C/002/09
+Walton Road,"3 Walton Road, Sheffield",Y,"53.3699,-1.4957",Thomas,Rankin,07 Jul 1860,79,Foreman - Glass Cutter Retired,Male,Widowed,Unknown,2,1,TNA/R39/3506/3506C/002/08
+Walton Road,"3 Walton Road, Sheffield",Y,"53.3699,-1.4957",Vera,Forrest,13 Nov 1912,27,Unpaid Domestic Duties,Female,Married,Wife,2,3,TNA/R39/3506/3506C/002/10
+Walton Road,"5 Walton Road, Sheffield",Y,"53.3699,-1.4957",Henrietta,Hall,01 Mar 1866,73,Unpaid Domestic Duties,Female,Married,Wife,3,2,TNA/R39/3506/3506C/002/13
+Walton Road,"5 Walton Road, Sheffield",Y,"53.3699,-1.4957",Walter,Hall,20 Jan 1867,72,Manufacturer Silver & Ep Managing Clerk Now Unemployed,Male,Married,Head,3,1,TNA/R39/3506/3506C/002/12
+Walton Road,"6 Walton Road, Sheffield",Y,"53.3699,-1.4957",Albert,Smith,11 Apr 1859,80,Silversmith Repairer (Retired),Male,Married,Head,112,1,TNA/R39/3506/3506D/010/39
+Walton Road,"6 Walton Road, Sheffield",Y,"53.3699,-1.4957",Annie E,Smith,14 Feb 1862,77,Unpaid Domestic Duties,Female,Married,Wife,112,2,TNA/R39/3506/3506D/010/40
+Walton Road,"6 Walton Road, Sheffield",Y,"53.3699,-1.4957",Lucy F,Wilson,04 Sep 1899,40,???,Female,Single,Unknown,112,3,TNA/R39/3506/3506D/010/41
+Walton Road,"7 Walton Road, Sheffield",Y,"53.3699,-1.4957",James,Brammer,11 Dec 1913,26,Boot Repairer,Male,Married,Head,4,1,TNA/R39/3506/3506C/002/14
+Walton Road,"7 Walton Road, Sheffield",Y,"53.3699,-1.4957",Katherine,Brammer,28 Jun 1913,26,Unpaid Domestic Duties,Female,Married,Wife,4,2,TNA/R39/3506/3506C/002/15
+Walton Road,"8 Walton Road, Sheffield",Y,"53.3699,-1.4957",Rose H,White,01 Jan 1879,60,Unpaid Domestic Duties,Female,Married,Wife,111,2,TNA/R39/3506/3506D/010/36
+Walton Road,"8 Walton Road, Sheffield",Y,"53.3699,-1.4957",Rosie M,?tirr (White),01 Apr 1914,25,Steel Measures Etcher Assistant,Female,Single,Daughter,111,4,TNA/R39/3506/3506D/010/38
+Walton Road,"8 Walton Road, Sheffield",Y,"53.3699,-1.4957",Sydney H,White,22 Mar 1900,39,Letterpress Commercial Printer (Master),Male,Single,Son,111,3,TNA/R39/3506/3506D/010/37
+Walton Road,"8 Walton Road, Sheffield",Y,"53.3699,-1.4957",Sydney,White,09 Apr 1876,63,???,Male,Married,Head,111,1,TNA/R39/3506/3506D/010/35
+Walton Road,"9 Walton Road, Sheffield",Y,"53.3699,-1.4957",George,Clarke,02 Oct 1912,27,Fish Salesman,Male,Married,Head,5,1,TNA/R39/3506/3506C/002/16
+Walton Road,"9 Walton Road, Sheffield",Y,"53.3699,-1.4957",Vera M,Clarke,20 Jun 1915,24,Unpaid Domestic Duties,Female,Married,Wife,5,2,TNA/R39/3506/3506C/002/17
+Walton Road,"10 Walton Road, Sheffield",Y,"53.3699,-1.4957",Constance,Simpson,19 Dec 1905,34,Unpaid Domestic Duties,Female,Married,Wife,110,2,TNA/R39/3506/3506D/010/32
+Walton Road,"10 Walton Road, Sheffield",Y,"53.3699,-1.4957",Richard A,Simpson,25 Oct 1904,35,Stock Bookers Clerk,Male,Married,Head,110,1,TNA/R39/3506/3506D/010/31
+Walton Road,"11 Walton Road, Sheffield",Y,"53.3699,-1.4957",Gertrude,Stacey,? Aug 1880,59,Housekeeper,Female,Single,Unknown,6,2,TNA/R39/3506/3506C/002/19
+Walton Road,"11 Walton Road, Sheffield",Y,"53.3699,-1.4957",Sarah A,Jepson,12 Nov 1868,71,Private Means,Female,Single,Unknown,6,1,TNA/R39/3506/3506C/002/18
+Walton Road,"12 Walton Road, Sheffield",Y,"53.3699,-1.4957",Edward,Owen,19 Oct 1905,34,???,Male,Married,Head,109,1,TNA/R39/3506/3506D/010/29
+Walton Road,"12 Walton Road, Sheffield",Y,"53.3699,-1.4957",Gladys,Owen,12 Jan 1910,29,Unpaid Domestic Duties,Female,Married,Wife,109,2,TNA/R39/3506/3506D/010/30
+Walton Road,"13 Walton Road, Sheffield",Y,"53.3699,-1.4957",Albert,Rotherham,18 Nov 1898,41,Plumber,Male,Married,Head,7,1,TNA/R39/3506/3506C/002/20
+Walton Road,"13 Walton Road, Sheffield",Y,"53.3699,-1.4957",Jane,Rotherham,27 May 1897,42,Unpaid Domestic Duties,Female,Married,Wife,7,2,TNA/R39/3506/3506C/002/21
+Walton Road,"14 Walton Road, Sheffield",Y,"53.3699,-1.4957",Catherine E,Hinchliffe,06 Jan 1868,71,Unpaid Domestic Duties,Female,Widowed,Head,108,1,TNA/R39/3506/3506D/010/24
+Walton Road,"14 Walton Road, Sheffield",Y,"53.3699,-1.4957",Elizabeth M,Holmes (Gilbert),05 Jun 1928,11,At School,Female,Single,Unknown,108,5,TNA/R39/3506/3506D/010/28
+Walton Road,"14 Walton Road, Sheffield",Y,"53.3699,-1.4957",Ellen,Gilbert,17 Aug 1891,48,Unpaid Domestic Duties,Female,Widowed,Unknown,108,4,TNA/R39/3506/3506D/010/27
+Walton Road,"14 Walton Road, Sheffield",Y,"53.3699,-1.4957",Florence,Hinchliffe,25 Jun 1894,45,Drapery Clerk (In Accountancy Office),Female,Single,Daughter,108,3,TNA/R39/3506/3506D/010/26
+Walton Road,"14 Walton Road, Sheffield",Y,"53.3699,-1.4957",Kathleen M,Hinchliffe,27 Oct 1892,47,Wholesale Millinery Buyer,Female,Single,Daughter,108,2,TNA/R39/3506/3506D/010/25
+Walton Road,"15 Walton Road, Sheffield",Y,"53.3699,-1.4957",Frank,Heslop,14 Feb 1881,58,Silver Finisher,Male,Married,Head,8,1,TNA/R39/3506/3506C/002/24
+Walton Road,"15 Walton Road, Sheffield",Y,"53.3699,-1.4957",Jane E,Heslop,15 Jan 1884,55,Unpaid Domestic Duties,Female,Married,Wife,8,2,TNA/R39/3506/3506C/002/25
+Walton Road,"15 Walton Road, Sheffield",Y,"53.3699,-1.4957",Joan,Heslop,07 Jul 1921,18,Clerk (Shefilter Transport Carpenter Office),Female,Single,Daughter,8,3,TNA/R39/3506/3506C/002/26
+Walton Road,"15 Walton Road, Sheffield",Y,"53.3699,-1.4957",Margaret,Heslop (Kneath),31 May 1924,15,Typist Motor Works,Female,Single,Unknown,8,4,TNA/R39/3506/3506C/002/27
+Walton Road,"17 Walton Road, Sheffield",Y,"53.3699,-1.4957",Margaret,Martin,17 Mar 1883,56,Unpaid Domestic Duties,Female,Married,Wife,9,2,TNA/R39/3506/3506C/002/29
+Walton Road,"17 Walton Road, Sheffield",Y,"53.3699,-1.4957",Robert S R,Martin,17 Feb 1888,51,General Labourer Heavy Wo Machine Shop Stone Works,Male,Married,Head,9,1,TNA/R39/3506/3506C/002/28
+Walton Road,"17 Walton Road, Sheffield",Y,"53.3699,-1.4957",Robert,Martin,19 Dec 1919,20,Tool Fitters Improver,Male,Single,Son,9,4,TNA/R39/3506/3506C/002/31
+Walton Road,"17 Walton Road, Sheffield",Y,"53.3699,-1.4957",Violet,Martin,11 Apr 1917,22,Invoice Typist Steelworks,Female,Single,Daughter,9,3,TNA/R39/3506/3506C/023/05
+Walton Road,"17 Walton Road, Sheffield",Y,"53.3699,-1.4957",Violet,Martin,11 Jul 1917,22,Invoice Typist Steel Worker,Female,Single,Daughter,9,3,TNA/R39/3506/3506C/002/30
+Walton Road,"18 Walton Road, Sheffield",Y,"53.3699,-1.4957",Charlotte,Hall,01 Sep 1895,44,Unpaid Domestic Duties,Female,Married,Wife,107,2,TNA/R39/3506/3506D/010/18
+Walton Road,"18 Walton Road, Sheffield",Y,"53.3699,-1.4957",Harry,Hall,21 Aug 1894,45,Corporation From Conductor,Male,Married,Head,107,1,TNA/R39/3506/3506D/010/17
+Walton Road,"18 Walton Road, Sheffield",Y,"53.3699,-1.4957",Nellie,Parrish,31 Dec 1896,43,Grocers Shop Sales Assistant,Female,Single,Unknown,107,7,TNA/R39/3506/3506D/010/23
+Walton Road,"18 Walton Road, Sheffield",Y,"53.3699,-1.4957",Walter L,Hall,08 Sep 1924,15,Newspaper Office Clerk,Male,Single,Son,107,3,TNA/R39/3506/3506D/010/19
+Walton Road,"19 Walton Road, Sheffield",Y,"53.3699,-1.4957",Edith,Peace,27 Feb 1871,68,Scisor Dresser (Retiired Seckner),Female,Single,Unknown,10,4,TNA/R39/3506/3506C/002/35
+Walton Road,"19 Walton Road, Sheffield",Y,"53.3699,-1.4957",Emily,Peace,09 Apr 1870,69,Unpaid Domestic Duties,Female,Widowed,Head,10,1,TNA/R39/3506/3506C/002/32
+Walton Road,"19 Walton Road, Sheffield",Y,"53.3699,-1.4957",Emily,Peace,21 Mar 1907,32,Unpaid Domestic Duties,Female,Single,Daughter,10,3,TNA/R39/3506/3506C/002/34
+Walton Road,"19 Walton Road, Sheffield",Y,"53.3699,-1.4957",Joseph H,Peace,25 May 1894,45,Tool & Cuttery Manufacturer,Male,Single,Son,10,6,TNA/R39/3506/3506C/002/37
+Walton Road,"19 Walton Road, Sheffield",Y,"53.3699,-1.4957",Kenneth John,Peace,31 Aug 1934,5,At School,Male,Single,Unknown,10,5,TNA/R39/3506/3506C/002/36
+Walton Road,"19 Walton Road, Sheffield",Y,"53.3699,-1.4957",Minnie,Peace,27 Feb 1891,48,Unpaid Domestic Duties,Female,Single,Daughter,10,2,TNA/R39/3506/3506C/002/33
+Walton Road,"20 Walton Road, Sheffield",Y,"53.3699,-1.4957",Myra,Ulyett,23 Jun 1858,81,Unpaid Domestic Duties,Female,Married,Wife,106,2,TNA/R39/3506/3506D/010/16
+Walton Road,"20 Walton Road, Sheffield",Y,"53.3699,-1.4957",Richard E,Ulyett,19 Dec 1869,70,Steel Works Foreman Incapacitate,Male,Married,Head,106,1,TNA/R39/3506/3506D/010/15
+Walton Road,"21 Walton Road, Sheffield",Y,"53.3699,-1.4957",Barbara,Hubbard,26 Apr 1928,11,At School,Female,Single,Daughter,11,3,TNA/R39/3506/3506C/002/40
+Walton Road,"21 Walton Road, Sheffield",Y,"53.3699,-1.4957",Horace B,Hubbard,31 Jan 1901,38,Garage Proprietor And Motor Engineer,Male,Married,Head,11,1,TNA/R39/3506/3506C/002/38
+Walton Road,"21 Walton Road, Sheffield",Y,"53.3699,-1.4957",Priscilla,Hubbard,06 Sep 1898,41,Unpaid Domestic Duties,Female,Married,Wife,11,2,TNA/R39/3506/3506C/002/39
+Walton Road,"22 Walton Road, Sheffield",Y,"53.3699,-1.4957",Ellen,Richards,25 Sep 1877,62,Retired (Foster Mother),Female,Single,Unknown,105,2,TNA/R39/3506/3506D/010/13
+Walton Road,"22 Walton Road, Sheffield",Y,"53.3699,-1.4957",Emily,Johnson,20 Feb 1873,66,Unpaid Domestic Duties,Female,Widowed,Head,105,1,TNA/R39/3506/3506D/010/12
+Walton Road,"22 Walton Road, Sheffield",Y,"53.3699,-1.4957",Reginald A,Johnson,27 Apr 1903,36,Pattern Makers Labourer Steel Wo At Present Unemployed,Male,Single,Son,105,3,TNA/R39/3506/3506D/010/14
+Walton Road,"23 Walton Road, Sheffield",Y,"53.3699,-1.4957",Dorothy,Pearson (Fox),15 Sep 1914,25,Wallpaper Shop Assistant,Female,Single,Daughter,12,2,TNA/R39/3506/3506C/002/44
+Walton Road,"23 Walton Road, Sheffield",Y,"53.3699,-1.4957",Florence,Fox,21 Sep 1887,52,Unpaid Domestic Duties,Female,Widowed,Head,12,1,TNA/R39/3506/3506C/002/43
+Walton Road,"23 Walton Road, Sheffield",Y,"53.3699,-1.4957",Horace,Green,21 Apr 1885,54,File Forger,Male,Single,Unknown,12,4,TNA/R39/3506/3506C/003/02
+Walton Road,"23 Walton Road, Sheffield",Y,"53.3699,-1.4957",Margaret,Fox,14 Feb 1918,21,Assistant Hairdresser,Female,Single,Daughter,12,3,TNA/R39/3506/3506C/003/01
+Walton Road,"24 Walton Road, Sheffield",Y,"53.3699,-1.4957",Bertha,Bond,07 Nov 1908,31,Unpaid Domestic Duties,Female,Married,Wife,104,2,TNA/R39/3506/3506D/010/10
+Walton Road,"24 Walton Road, Sheffield",Y,"53.3699,-1.4957",Lawrence,Bond,24 Nov 1897,42,Travel Agents Clerk,Male,Married,Head,104,1,TNA/R39/3506/3506D/010/09
+Walton Road,"25 Walton Road, Sheffield",N,"53.3699,-1.4957",,,,,,,,,,,
+Walton Road,"26 Walton Road, Sheffield",Y,"53.3699,-1.4957",Alice,Rusling,29 Dec 1876,63,Unpaid Domestic Duties,Female,Married,Wife,103,2,TNA/R39/3506/3506D/010/05
+Walton Road,"26 Walton Road, Sheffield",Y,"53.3699,-1.4957",Arthur E,Rusling,27 Dec 1902,37,Transport Butchery Department Cooperative Stores,Male,Single,Son,103,3,TNA/R39/3506/3506D/010/06
+Walton Road,"26 Walton Road, Sheffield",Y,"53.3699,-1.4957",Edith A,Bailey,10 Jul 1900,39,Unpaid Domestic Duties,Female,Married,Wife_other,103,5,TNA/R39/3506/3506D/010/08
+Walton Road,"26 Walton Road, Sheffield",Y,"53.3699,-1.4957",Edward,Rusling,21 Jan 1873,66,Steelworks Engineer (Turner),Male,Married,Head,103,1,TNA/R39/3506/3506D/010/04
+Walton Road,"26 Walton Road, Sheffield",Y,"53.3699,-1.4957",Maurice,Bailey,12 Jul 1897,42,Grocery Department Co-Operative Stores,Male,Married,Head_other,103,4,TNA/R39/3506/3506D/010/07
+Walton Road,"27 Walton Road, Sheffield",N,"53.3699,-1.4957",,,,,,,,,,,
+Walton Road,"29 Walton Road, Sheffield",Y,"53.3699,-1.4957",Frank,George,13 Aug 1902,37,Slotter (Toolroom) Steel Works,Male,Married,Head,15,1,TNA/R39/3506/3506C/003/05
+Walton Road,"29 Walton Road, Sheffield",Y,"53.3699,-1.4957",Gwendoline H,George,24 Sep 1902,37,Unpaid Domestic Duties,Female,Married,Wife,15,2,TNA/R39/3506/3506C/003/06
+Walton Road,"31 Walton Road, Sheffield",Y,"53.3699,-1.4957",Beatrice,Rayden,13 Nov 1882,57,Unpaid Domestic Duties,Female,Married,Wife,16,2,TNA/R39/3506/3506C/003/09
+Walton Road,"31 Walton Road, Sheffield",Y,"53.3699,-1.4957",Joyce,Fulcher (Rayden),04 May 1922,17,Shirt Machinist,Female,Single,Daughter,16,4,TNA/R39/3506/3506C/003/11
+Walton Road,"31 Walton Road, Sheffield",Y,"53.3699,-1.4957",Peter Noel,Baker (Rayden),11 Mar 1939,0,Under School Age,Male,Single,Son,16,5,TNA/R39/3506/3506C/003/12
+Walton Road,"31 Walton Road, Sheffield",Y,"53.3699,-1.4957",William,Rayden,19 Jul 1878,61,Conductor Corporation Tra,Male,Married,Head,16,1,TNA/R39/3506/3506C/003/08
+Walton Road,"31 Walton Road, Sheffield",Y,"53.3699,-1.4957",Winifred,Baker (Rayden),04 Nov 1910,29,Shirt Machinist,Female,Single,Daughter,16,3,TNA/R39/3506/3506C/003/10
+Walton Road,"33 Walton Road, Sheffield",Y,"53.3699,-1.4957",Annie,Allchurch,16 Sep 1882,57,Unpaid Domestic Duties,Female,Married,Wife,17,2,TNA/R39/3506/3506C/003/14
+Walton Road,"33 Walton Road, Sheffield",Y,"53.3699,-1.4957",Benjamin,Allchurch,19 Aug 1885,54,Laundry Director & Manager,Male,Married,Head,17,1,TNA/R39/3506/3506C/003/13
+Walton Road,"33 Walton Road, Sheffield",Y,"53.3699,-1.4957",Gwendoline,Reed (Allchurch),25 Jul 1913,26,Clerk (Snuff Mills),Female,Single,Daughter,17,3,TNA/R39/3506/3506C/003/15
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Alec,Levy,12 May 1893,46,Tailor,Male,Married,Head,18,1,TNA/R39/3506/3506C/003/16
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Christiana (Christine),Morris (Jeffries),04 Apr 1921,18,Clerk Oxygen Works,Female,Single,Unknown,18,6,TNA/R39/3506/3506C/003/21
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Edith E,Levy,12 Jun 1892,47,Unpaid Domestic Duties,Female,Married,Wife,18,2,TNA/R39/3506/3506C/003/17
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Elfreda,Levy,14 Jun 1924,15,Hairdresser,Female,Single,Daughter,18,3,TNA/R39/3506/3506C/003/18
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Frederick,Mozley,12 Jun 1897,42,Shell Assembler,Male,Single,Unknown,18,4,TNA/R39/3506/3506C/003/19
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Mary,Rushby (Jeffries),21 Feb 1928,11,At School,Female,Single,Unknown,18,7,TNA/R39/3506/3506C/003/22
+Walton Road,"35 Walton Road, Sheffield",Y,"53.3699,-1.4957",Sarah,Jeffries,29 Dec 1887,52,Unpaid Domestic Duties,Female,Widowed,Unknown,18,5,TNA/R39/3506/3506C/003/20
+Walton Road,"37 Walton Road, Sheffield",Y,"53.3699,-1.4957",Ellen,Hirst,24 Aug 1889,50,Unpaid Domestic Duties,Female,Married,Wife,19,2,TNA/R39/3506/3506C/003/24
+Walton Road,"37 Walton Road, Sheffield",Y,"53.3699,-1.4957",Harry W,Hirst,01 Apr 1880,59,Gentlemen's Hairdresser,Male,Married,Head,19,1,TNA/R39/3506/3506C/003/23
+Walton Road,"37 Walton Road, Sheffield",Y,"53.3699,-1.4957",Mona L,Maplebeck (Hirst),22 Oct 1922,17,"Seeking Work, Not Previously Employed",Female,Single,Daughter,19,3,TNA/R39/3506/3506C/003/25
+Walton Road,"39 Walton Road, Sheffield",Y,"53.3699,-1.4957",Annie,Matthews,08 Oct 1894,45,Unpaid Domestic Duties,Female,Married,Unknown,20,6,TNA/R39/3506/3506C/003/31
+Walton Road,"39 Walton Road, Sheffield",Y,"53.3699,-1.4957",Donald,Thompson,23 Mar 1921,18,Clerk Steelworks,Male,Single,Unknown,20,5,TNA/R39/3506/3506C/003/30
+Walton Road,"39 Walton Road, Sheffield",Y,"53.3699,-1.4957",Ellen,Rowland,12 Jul 1882,57,Unpaid Domestic Duties Party Incapacitated,Female,Single,Daughter,20,3,TNA/R39/3506/3506C/003/28
+Walton Road,"39 Walton Road, Sheffield",Y,"53.3699,-1.4957",Mary A,Rowland,18 Jun 1858,81,Incapacitated,Female,Married,Wife,20,2,TNA/R39/3506/3506C/003/27
+Walton Road,"39 Walton Road, Sheffield",Y,"53.3699,-1.4957",Mary,Thompson,20 Apr 1896,43,Joiner Clerk,Female,Married,Unknown,20,4,TNA/R39/3506/3506C/003/29
+Walton Road,"39 Walton Road, Sheffield",Y,"53.3699,-1.4957",Thomas G,Rowland,12 Dec 1858,81,Retired Silver Trade,Male,Married,Head,20,1,TNA/R39/3506/3506C/003/26
+Walton Road,"41 Walton Road, Sheffield",Y,"53.3699,-1.4957",Elizabeth S,Grant,22 Mar 1886,53,Unpaid Domestic Duties Travelling ?mally Hus,Female,Married,Wife,21,2,TNA/R39/3506/3506C/003/33
+Walton Road,"41 Walton Road, Sheffield",Y,"53.3699,-1.4957",William,Grant,16 Dec 1884,55,Director & Technical Expert Concerthing Sa? Noneworking Machine Tool Service (Traveller),Male,Married,Head,21,1,TNA/R39/3506/3506C/003/32
+Walton Road,"43 Walton Road, Sheffield",Y,"53.3699,-1.4957",Barbara L,Bown (Mason),08 Jan 1874,65,Mother Help,Female,Single,Unknown,22,3,TNA/R39/3506/3506C/003/36
+Walton Road,"43 Walton Road, Sheffield",Y,"53.3699,-1.4957",Clara L,Mason,28 Sep 1885,54,Unpaid Domestic Duties,Female,Married,Wife,22,2,TNA/R39/3506/3506C/003/35
+Walton Road,"43 Walton Road, Sheffield",Y,"53.3699,-1.4957",William,Mason,15 Dec 1883,56,Traveller Oils & Petrol,Male,Married,Head,22,1,TNA/R39/3506/3506C/003/34
+Walton Road,"45 Walton Road, Sheffield",Y,"53.3699,-1.4957",Ernest W,Adams,08 Nov 1890,49,???,Male,Married,Head,23,1,TNA/R39/3506/3506C/003/37
+Walton Road,"45 Walton Road, Sheffield",Y,"53.3699,-1.4957",Florence,Adams,31 Mar 1890,49,Unpaid Domestic Duties,Female,Married,Wife,23,2,TNA/R39/3506/3506C/003/38
+Walton Road,"45 Walton Road, Sheffield",Y,"53.3699,-1.4957",John C,Adams,15 Jun 1921,18,Cost & Wages Clerk Steel Worker,Male,Single,Son,23,3,TNA/R39/3506/3506C/003/39
