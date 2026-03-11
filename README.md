@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/census-data-parsing-1939/about/>
 # Census data
 
 Exporting census data for households from a few streets from the 1939 Register.
